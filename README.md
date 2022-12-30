@@ -1,6 +1,6 @@
 # P2P Basel 2023
 
-From Friday the 27.01.2020 to Monday the 30.02.2020, we will gather with ssb folks and Swiss academics and students in Basel for four days of discussion on scuttlebutt and its underlying principles. While there will be some structured program blocks, the main focus lies on participant-driven sessions:
+From Friday the 27.01.2020 to Monday the 30.01.2020, we will gather with ssb folks and Swiss academics and students in Basel for four days of discussion on scuttlebutt and its underlying principles. While there will be some structured program blocks, the main focus lies on participant-driven sessions:
 
 > Secure Scuttlebutt (SSB) is an application-level secure, persisted publish/subscribe system that has gained popularity in the decentralized Web movement. The aim of this workshop is to bring together researchers, software builders and members of the SSB community to study the properties and potential of Secure Scuttlebutt. The workshop is open to other decentralized approaches and networking technolgies e.g. DAT, Holochain, IPFS or SOLID, as problems and technologies often have considerable similarities. Also, a SSB tutorial preceds the workshop, helping people to get familiar with the Secure Scuttlebutt technology and value system in short time. A travel and accommodation grant has been put in place to help facilitate attendance from people without institutional funding.
 
