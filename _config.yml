@@ -2,5 +2,5 @@ remote_theme: pages-themes/hacker@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
-title: P2P Basel 2023
-description: All infos in a single place!
+__title: P2P Basel 2023
+__description: All infos in a single place!
