@@ -1,0 +1,92 @@
+---
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: home
+---
+
+| [Venue](#venue) | [Schedule](#schedule-overview) | [Travel&Accom.](#travel-and-accommodations) | [Volunteer](#volunteering-and-self-organization) | [Register](#attendance-fees-and-registration) | [Contacts](#contacts) | [References](#references)
+
+![banner](/banner.png)
+
+[Secure Scuttlebutt (SSB)](https://scuttlebutt.nz/) is an application-level secure, persisted publish/subscribe system that has gained popularity in the decentralized Web movement. The aim of this workshop is to bring together researchers, software builders and members of the SSB community to study the properties and potential of Secure Scuttlebutt. The workshop is open to other decentralized approaches and networking technolgies e.g. DAT, Holochain, IPFS or SOLID, as problems and technologies often have considerable similarities. Also, a SSB tutorial precedes the workshop, helping people to get familiar with the Secure Scuttlebutt technology and value system in short time. Limited travel and accommodation grants are available to help facilitate attendance from people without institutional funding.
+
+## Venue
+
+Venue for the event is the [Spiegelgasse 1 in Basel](https://www.openstreetmap.org/node/5228942689), in the Departement Mathematik und Informatik of University of Basel. Talks and discussions will happen in the conference room on the 6th floor. Food and refreshments will be available in the adjacent cafeteria.
+
+## Schedule Overview
+
+|             |  Fri. Jan. 27           |  Sat. Jan. 28          |  Sun. Jan. 29                  |  Mon. Jan. 30          |
+| ----------- | :---------------------: | :--------------------: | :----------------------------: | :--------------------: |
+| **9h-12h**  | Newcomers Intro         | Invited Talks          | Invited Talks                  | *TBD*                  |
+| **13h-17h** | *TBD*                   | *TBD*                  | Paper Museum (optional)        | *TBD*                  |
+| **17h-...** | *TBD*                   | *TBD*                  | *TBD*                          | *TBD*                  |
+
+*TBD: To Be Decided by participants.*
+
+### -> Newcomers Intro to Secure-Scuttlebutt (Friday January 27th Morning)
+
+You do not need to be familiar with Secure-Scuttlebutt to join! An introduction session will be hosted for newcomers to learn about the fundamentals, prior to the rest of the event. You can already get acquainted with [related material](#references).
+
+
+### -> Invited Talks (Saturday January 28th and Sunday January 29th Mornings)
+
+Saturday and Sunday mornings will have 20-minutes talks, each followed by a question period of 10 minutes. There are 5 slots reserved on each day. These slots are intended for more structured presentations prepared in advance of the event. This is especially relevant if you want to present prior published academic work, progress reports on ongoing projects, or any other topic you have spent significant time reflecting upon. Please contact [Erick Lavoie](#contacts) to discuss your talk proposal.
+
+Current invited talks:
+  1. Members of the [Computer Networks Group](https://cn.dmi.unibas.ch/) [[GitHub]](https://github.com/cn-uofbasel) (4 slots)
+  2. Open (6 slots)
+
+### -> [Paper Museum](https://www.baslerpapiermuehle.ch/museum/) (Sunday January 29th Afternoon)
+
+We have reserved a 2h guided tour of the Paper Museum, which also includes hands-on papermaking and printing. Let us know if you are interested, the number of spots is limited!
+
+## Travel and Accommodations
+
+You will have to organize travel and accommodations yourself. Basel is easily accessible by train and by plane. To share accommodation costs, you can synchronize with [other participants](#volunteering-and-self-organization). 
+
+## Volunteering and Self-Organization
+
+Most of the program will be done in a participant-driven [unconference style](https://en.wikipedia.org/wiki/Unconference). You can already think about sessions you'd like to host, discussions you'd like to initiate, etc. And if you feel like it, why not prepare a lightning talk?
+
+Also, we'd love to see people take responsibility for some part of the event: perhaps you'd like to coordinate the preparation of a meal, host the lightning talks, know a way of gently raising people's energy on Monday morning, or see another opportunity that is currently missing in the schedule? Then please [reach out to us](#contacts) and we'll make sure you can have your fun =). Any suggestions for vegan recipes are greatly appreciated.
+
+You can also already discuss with other participants via:
+
+- Signal Group (moderated): [https://signal.group/#CjQKILGN1m5zGIFqVW-4xJPIO5wgy655tDZQRREDmgKQEBzoEhBHVsTruzyJvNxOrIUrTM8u](https://signal.group/#CjQKILGN1m5zGIFqVW-4xJPIO5wgy655tDZQRREDmgKQEBzoEhBHVsTruzyJvNxOrIUrTM8u)
+- Secure-Scuttlebutt (Link to be announced)
+
+## Attendance Fees and Registration
+
+We ask for 20 CHF/day (20 EUR/day) for attendance, to help cover meal costs. You can register on site on the day of the event. To help planning, please send an email to [Erick Lavoie](mailto:erick.lavoie@unibas.ch) as soon as possible with answers to the following questions:
+
+1. Which day(s) do you plan to attend?
+2. Do you plan to give a talk? Which topic?
+3. Will you attend the Paper Museum activity?
+4. Any initiative you would like to share?
+
+### Sponsoring
+
+We have some limited funding opportunities from [SSBC](https://opencollective.com/secure-scuttlebutt-consortium) and [Planetary](https://www.planetary.social/) to help cover travel and accommodation, these will be assessed on a case-by-case basis. Contact [@decentral1se](mailto:helo@autonomic.zone).
+
+Additionally, if you have an **academic** affiliation and can give an invited talk on some SSB-related topic, the Computer Networks Group can access university funds to help cover travel and accommodation. Contact [Christian Tschudin](mailto:christian.tschudin@unibas.ch).
+
+
+## Contacts
+
+- Sponsoring, Signal Group Moderation, Unconference Hosting: [@decentral1se](mailto:helo@autonomic.zone)
+- Registration, Schedule, Invited Talks: [Erick Lavoie](mailto:erick.lavoie@unibas.ch)
+- Academic Sponsoring: [Christian Tschudin](mailto:christian.tschudin@unibas.ch)
+
+## References
+
+You might like to get acquainted with related material produced by SSB community members. These are listed from most accessible to more advanced:
+
+  * [SSB Website](https://scuttlebutt.nz/) with [video talks](https://scuttlebutt.nz/docs/talks/)
+  * [*Alternative Social Media and the Complexities of a More Participatory Culture: A View From Scuttlebutt*](https://journals.sagepub.com/doi/10.1177/20563051221122448): Ethnographic study of Secure-Scuttlebutt, developed through active participation within the community.   [[media article]](https://theconversation.com/its-hard-to-imagine-better-social-media-alternatives-but-scuttlebutt-shows-change-is-possible-190351)  [[paper]](https://journals.sagepub.com/doi/epub/10.1177/20563051221122448)
+  * [*Gossiping with Append-Only Logs in Secure-Scuttlebutt*](https://dl.acm.org/doi/abs/10.1145/3428662.3428794): High-level presentation of the core replication protocol and open questions. [[9min. presentation]](https://www.youtube.com/watch?v=rvaM74AgCmM&t=1s) [[paper]](https://dl.acm.org/doi/abs/10.1145/3428662.3428794)
+  * [*Secure Scuttlebutt: An Identity-Centric Protocol for Subjective and Decentralized Applications*](https://dl.acm.org/doi/abs/10.1145/3357150.3357396): High-level presentation of SSB, with a comparison to another information-centric approach (Named Data Networking) [[paper]](https://dl.acm.org/doi/abs/10.1145/3357150.3357396)
+  * [*Local Crypto-Tokens for Local Economics*](https://dl.acm.org/doi/10.1145/3565383.3566113): Articulation of the problem of designing crypto-tokens based on double-spending detection instead of prevention, making them compatible with eventually-consistent replication such as done by SSB. [[paper]]((https://dl.acm.org/doi/10.1145/3565383.3566113))
+  * [*A Broadcast-Only Communication Model Based on Replicated Append-Only Logs*](https://dl.acm.org/doi/abs/10.1145/3336937.3336943): A note on how using broadcast as a fundamental communication primitive leads to replicated append-only logs. [[paper]](https://dl.acm.org/doi/abs/10.1145/3336937.3336943) 
+  * [*Range-Based Set Reconciliation and Authenticated Set Representations*](https://github.com/AljoschaMeyer/master_thesis): Replication protocol based on sets instead of the logs currently used by SSB. [[paper]](https://arxiv.org/pdf/2212.13567.pdf) [[master thesis]](https://github.com/AljoschaMeyer/master_thesis)
+  * [*A Connectionless Grow-Only Set CRDT*](https://dl.acm.org/doi/10.1145/3565383.3566110): Technique to compress packet size between replicators without needing prior connection. [[paper]](https://dl.acm.org/doi/10.1145/3565383.3566110) 
