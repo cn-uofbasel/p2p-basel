@@ -8,7 +8,7 @@ layout: home
 
 ![banner](/banner.png)
 
-[Secure Scuttlebutt (SSB)](https://scuttlebutt.nz/) is an application-level, secure and persisted publish/subscribe system that has gained popularity in the decentralized Web movement. The aim of this workshop is to bring together researchers, software builders and members of the SSB community to study the properties and potential of Secure Scuttlebutt. The workshop is open to other decentralized approaches and networking technolgies e.g. DAT, Holochain, IPFS or SOLID, as problems and technologies often have considerable similarities. Also, a SSB tutorial precedes the workshop, helping people to get familiar with the Secure Scuttlebutt technology and value system in short time. Limited travel and accommodation grants are available to help facilitate attendance from people without institutional funding.
+[Secure Scuttlebutt (SSB)](https://scuttlebutt.nz/) is an application-level, secure and persisted publish/subscribe system that has gained popularity in the decentralized Web movement. The aim of this workshop is to bring together researchers, software builders and members of the SSB community to study the properties and potential of Secure Scuttlebutt. The workshop is open to other decentralized approaches and networking technologies e.g. DAT, Holochain, IPFS or SOLID, as problems and technologies often have considerable similarities. Also, a SSB tutorial precedes the workshop, helping people to get familiar with the Secure Scuttlebutt technology and value system in short time. Limited travel and accommodation grants are available to help facilitate attendance from people without institutional funding.
 
 ## Venue
 
