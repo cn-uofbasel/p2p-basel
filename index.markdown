@@ -37,7 +37,7 @@ Current invited talks:
   1. Members of the [Computer Networks Group](https://cn.dmi.unibas.ch/) [[GitHub]](https://github.com/cn-uofbasel) (4 slots)
   2. Open (6 slots)
 
-### -> [Paper Museum](https://www.baslerpapiermuehle.ch/museum/) (Sunday January 29th Afternoon)
+### -> [Paper Museum](https://www.baslerpapiermuehle.ch/museum/?lang=en) (Sunday January 29th Afternoon)
 
 We have reserved a 2h guided tour of the Paper Museum, which also includes hands-on papermaking and printing. Let us know if you are interested, the number of spots is limited!
 
