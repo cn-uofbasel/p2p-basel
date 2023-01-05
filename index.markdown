@@ -12,7 +12,7 @@ layout: home
 
 ## Venue
 
-Venue for the event is the Departement of Mathematics and Computer Science of the University of Basel, located at [Spiegelgasse 1](https://www.openstreetmap.org/node/5228942689). Talks and discussions will happen in the conference room on the 6th floor. Food and refreshments will be available in the adjacent cafeteria.
+Venue for the event is the [Departement of Mathematics and Computer Science](https://dmi.unibas.ch/en/) of the [University of Basel](https://www.unibas.ch/en.html), located at [Spiegelgasse 1](https://www.openstreetmap.org/node/5228942689). Talks and discussions will happen in the conference room on the 6th floor. Food and refreshments will be available in the adjacent cafeteria.
 
 ## Schedule Overview
 
