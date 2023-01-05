@@ -8,11 +8,11 @@ layout: home
 
 ![banner](/banner.png)
 
-[Secure Scuttlebutt (SSB)](https://scuttlebutt.nz/) is an application-level secure, persisted publish/subscribe system that has gained popularity in the decentralized Web movement. The aim of this workshop is to bring together researchers, software builders and members of the SSB community to study the properties and potential of Secure Scuttlebutt. The workshop is open to other decentralized approaches and networking technolgies e.g. DAT, Holochain, IPFS or SOLID, as problems and technologies often have considerable similarities. Also, a SSB tutorial precedes the workshop, helping people to get familiar with the Secure Scuttlebutt technology and value system in short time. Limited travel and accommodation grants are available to help facilitate attendance from people without institutional funding.
+[Secure Scuttlebutt (SSB)](https://scuttlebutt.nz/) is an application-level, secure and persisted publish/subscribe system that has gained popularity in the decentralized Web movement. The aim of this workshop is to bring together researchers, software builders and members of the SSB community to study the properties and potential of Secure Scuttlebutt. The workshop is open to other decentralized approaches and networking technolgies e.g. DAT, Holochain, IPFS or SOLID, as problems and technologies often have considerable similarities. Also, a SSB tutorial precedes the workshop, helping people to get familiar with the Secure Scuttlebutt technology and value system in short time. Limited travel and accommodation grants are available to help facilitate attendance from people without institutional funding.
 
 ## Venue
 
-Venue for the event is the [Spiegelgasse 1 in Basel](https://www.openstreetmap.org/node/5228942689), in the Departement Mathematik und Informatik of University of Basel. Talks and discussions will happen in the conference room on the 6th floor. Food and refreshments will be available in the adjacent cafeteria.
+Venue for the event is the [Departement of Mathematics and Computer Science](https://dmi.unibas.ch/en/) of the [University of Basel](https://www.unibas.ch/en.html), located at [Spiegelgasse 1](https://www.openstreetmap.org/node/5228942689). Talks and discussions will happen in the conference room on the 6th floor. Food and refreshments will be available in the adjacent cafeteria.
 
 ## Schedule Overview
 
@@ -22,7 +22,7 @@ Venue for the event is the [Spiegelgasse 1 in Basel](https://www.openstreetmap.o
 | **13h-17h** | *TBD*                   | *TBD*                  | Paper Museum (optional)        | *TBD*                  |
 | **17h-...** | *TBD*                   | *TBD*                  | *TBD*                          | *TBD*                  |
 
-*TBD: To Be Decided by participants.*
+*TBD: To Be Decided by participants ([unconference style](https://en.wikipedia.org/wiki/Unconference))
 
 ### -> Newcomers Intro to Secure-Scuttlebutt (Friday January 27th Morning)
 
@@ -37,7 +37,7 @@ Current invited talks:
   1. Members of the [Computer Networks Group](https://cn.dmi.unibas.ch/) [[GitHub]](https://github.com/cn-uofbasel) (4 slots)
   2. Open (6 slots)
 
-### -> [Paper Museum](https://www.baslerpapiermuehle.ch/museum/) (Sunday January 29th Afternoon)
+### -> [Paper Museum](https://www.baslerpapiermuehle.ch/museum/?lang=en) (Sunday January 29th Afternoon)
 
 We have reserved a 2h guided tour of the Paper Museum, which also includes hands-on papermaking and printing. Let us know if you are interested, the number of spots is limited!
 
