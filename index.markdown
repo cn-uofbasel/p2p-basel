@@ -56,7 +56,7 @@ Also, we'd love to see people take responsibility for some part of the event: pe
 You can also already discuss with other participants via:
 
 - Signal Group (moderated): [https://signal.group/#CjQKILGN1m5zGIFqVW-4xJPIO5wgy655tDZQRREDmgKQEBzoEhBHVsTruzyJvNxOrIUrTM8u](https://signal.group/#CjQKILGN1m5zGIFqVW-4xJPIO5wgy655tDZQRREDmgKQEBzoEhBHVsTruzyJvNxOrIUrTM8u)
-- Secure-Scuttlebutt (Link to be announced)
+- Secure-Scuttlebutt thread link: `%dL8mvkfRNtDOJncH3fM5r96w+I+mMNBB9WeLr0NRS3k=.sha256`
 
 ## Attendance Fees and Registration
 
