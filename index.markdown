@@ -36,7 +36,8 @@ Saturday and Sunday mornings will have 20-minutes talks, each followed by a ques
 Current invited talks:
   1. Members of the [Computer Networks Group](https://cn.dmi.unibas.ch/) [[GitHub]](https://github.com/cn-uofbasel) (4 slots)
   2. [Martijn De Vos](https://devos50.github.io/), "TrustChain: A Lightweight, Distributed Ledger for Universal Work Accounting" [[repo]]( https://github.com/Tribler/bami/tree/master/src/bami/trustchain) [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0167739X17318988) [[follow-up paper]](https://www.sciencedirect.com/science/article/pii/S1389128621001705) (Jan. 28th)
-  3. Open (5 slots)
+  3. [Alexander Cobleigh](https://cblgh.org/), "Cabling Cabal: A binary, pull-based protocol to ditch the log, enable deletes and who knows what else", [[repo]](https://github.com/cabal-club/cable/)
+  4. Open (4 slots)
 
 ### -> [Paper Museum](https://www.baslerpapiermuehle.ch/museum/?lang=en) (Sunday January 29th Afternoon)
 
