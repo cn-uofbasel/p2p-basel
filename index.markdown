@@ -62,7 +62,7 @@ You can also already discuss with other participants via:
 
 ## Attendance Fees and Registration
 
-We ask for 20 CHF/day (20 EUR/day) for attendance, to help cover meal costs. You can register on site on the day of the event. To help planning, please send an email to [Erick Lavoie](mailto:erick.lavoie@unibas.ch) as soon as possible with answers to the following questions:
+We ask for 20 CHF/day (20 EUR/day) for attendance, to help cover meal costs (at least breakfast and lunch, hopefully dinner as well). You can register on site on the day of the event. To help planning, please send an email to [Erick Lavoie](mailto:erick.lavoie@unibas.ch) as soon as possible with answers to the following questions:
 
 1. Which day(s) do you plan to attend?
 2. Do you plan to give a talk? Which topic?
