@@ -8,7 +8,7 @@ layout: home
 
 ![banner](/banner.png)
 
-[Secure Scuttlebutt (SSB)](https://scuttlebutt.nz/) is an application-level, secure and persisted publish/subscribe system that has gained popularity in the decentralized Web movement. The aim of this workshop is to bring together researchers, software builders and members of the SSB community to study the properties and potential of Secure Scuttlebutt. The workshop is open to other decentralized approaches and networking technologies e.g. DAT, Holochain, IPFS or SOLID, as problems and technologies often have considerable similarities. Also, a SSB tutorial precedes the workshop, helping people to get familiar with the Secure Scuttlebutt technology and value system in short time. Limited travel and accommodation grants are available to help facilitate attendance from people without institutional funding.
+[Secure Scuttlebutt (SSB)](https://scuttlebutt.nz/) is an application-level, secure and persisted publish/subscribe system that has gained popularity in the decentralized Web movement. The aim of this workshop is to bring together researchers, software builders and members of the SSB community to study the properties and potential of Secure Scuttlebutt. The workshop is open to other decentralized approaches and networking technologies e.g. DAT, Holochain, IPFS or SOLID, as problems and technologies often have considerable similarities. Also, a SSB tutorial precedes the workshop, helping people to get familiar with the Secure Scuttlebutt technology and value system in short time. ~~Limited travel and accommodation grants are available to help facilitate attendance from people without institutional funding~~ (We've received several applications, this grant opportunity is now closed).
 
 ## Venue
 
@@ -84,7 +84,7 @@ We ask for 20 CHF/day (20 EUR/day) for attendance, to help cover meal costs (at 
 
 ### Sponsoring
 
-We have some limited funding opportunities from [SSBC](https://opencollective.com/secure-scuttlebutt-consortium) and [Planetary](https://www.planetary.social/) to help cover travel and accommodation, these will be assessed on a case-by-case basis. Contact [@decentral1se](mailto:helo@autonomic.zone).
+~~We have some limited funding opportunities from [SSBC](https://opencollective.com/secure-scuttlebutt-consortium) and [Planetary](https://www.planetary.social/) to help cover travel and accommodation, these will be assessed on a case-by-case basis. Contact [@decentral1se](mailto:helo@autonomic.zone)~~ (We've received several applications, this grant opportunity is now closed).
 
 Additionally, if you have an **academic** affiliation and can give an invited talk on some SSB-related topic, the Computer Networks Group can access university funds to help cover travel and accommodation. Contact [Christian Tschudin](mailto:christian.tschudin@unibas.ch).
 
