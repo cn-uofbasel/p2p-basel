@@ -19,7 +19,7 @@ Venue for the event is the [Departement of Mathematics and Computer Science](htt
 |             |  Fri. Jan. 27           |  Sat. Jan. 28          |  Sun. Jan. 29                  |  Mon. Jan. 30          |
 | ----------- | :---------------------: | :--------------------: | :----------------------------: | :--------------------: |
 | **9h-12h**  | Newcomers Intro         | Invited Talks          | Invited Talks                  | *TBD*                  |
-| **13h-17h** | *TBD*                   | NGI/NLNet Experience Reports  | Paper Museum (optional)        | *TBD*                  |
+| **13h-17h** | *TBD*                   | NGI/NLnet Experience Reports  | Paper Museum (optional)        | *TBD*                  |
 | **17h-...** | *TBD*                   | *TBD*                  | *TBD*                          | *TBD*                  |
 
 *TBD: To Be Decided by participants ([unconference style](https://en.wikipedia.org/wiki/Unconference))
