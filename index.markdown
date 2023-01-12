@@ -34,12 +34,12 @@ You do not need to be familiar with Secure-Scuttlebutt to join! An introduction 
 Saturday and Sunday mornings will have 20-minutes talks, each followed by a question period of 10 minutes. There are 5 slots reserved on each day. These slots are intended for more structured presentations prepared in advance of the event. This is especially relevant if you want to present prior published academic work, progress reports on ongoing projects, or any other topic you have spent significant time reflecting upon. Please contact [Erick Lavoie](#contacts) to discuss your talk proposal.
 
 Current invited talks:
-  1. Members of the [Computer Networks Group](https://cn.dmi.unibas.ch/) [[GitHub]](https://github.com/cn-uofbasel) (4 slots)
+  1. Members of the [Computer Networks Group](https://cn.dmi.unibas.ch/) [[GitHub]](https://github.com/cn-uofbasel) (3 slots)
   2. [Martijn De Vos](https://devos50.github.io/), "TrustChain: A Lightweight, Distributed Ledger for Universal Work Accounting" [[repo]]( https://github.com/Tribler/bami/tree/master/src/bami/trustchain) [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0167739X17318988) [[follow-up paper]](https://www.sciencedirect.com/science/article/pii/S1389128621001705) (Jan. 28th)
   4. [Alexander Cobleigh](https://cblgh.org/), "Cabling Cabal: A binary, pull-based protocol to ditch the log, enable deletes and who knows what else", [[repo]](https://github.com/cabal-club/cable/)
   5. [Andre Staltz](https://staltz.com), "Near future in SSB JS and Manyverse" (Jan. 28th)
   6. [Aljoscha Meyer](https://aljoscha-meyer.de/), "Authenticated Prefix Relations"
-  7. Open (2 slots)
+  7. Open (3 slots)
 
 ### -> [Paper Museum](https://www.baslerpapiermuehle.ch/museum/?lang=en) (Sunday January 29th Afternoon)
 
