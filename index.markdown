@@ -67,7 +67,7 @@ We ask for 20 CHF/day (20 EUR/day) for attendance, to help cover meal costs (at 
 1. Which day(s) do you plan to attend?
 2. Do you plan to give a talk? Which topic?
 3. Will you attend the Paper Museum activity?
-4. Any initiative you would like to share?
+4. Any initiative in helping run the event you would like to share?
 
 ### Sponsoring
 
