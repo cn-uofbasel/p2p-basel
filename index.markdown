@@ -19,7 +19,7 @@ Venue for the event is the [Departement of Mathematics and Computer Science](htt
 |             |  Fri. Jan. 27           |  Sat. Jan. 28          |  Sun. Jan. 29                  |  Mon. Jan. 30          |
 | ----------- | :---------------------: | :--------------------: | :----------------------------: | :--------------------: |
 | **9h-12h**  | Newcomers Intro         | Invited Talks          | Invited Talks                  | *TBD*                  |
-| **13h-17h** | *TBD*                   | *TBD*                  | Paper Museum (optional)        | *TBD*                  |
+| **13h-17h** | *TBD*                   | NGI/NLNet Experience Reports  | Paper Museum (optional)        | *TBD*                  |
 | **17h-...** | *TBD*                   | *TBD*                  | *TBD*                          | *TBD*                  |
 
 *TBD: To Be Decided by participants ([unconference style](https://en.wikipedia.org/wiki/Unconference))
@@ -40,6 +40,18 @@ Current invited talks:
   5. [Andre Staltz](https://staltz.com), "Near future in SSB JS and Manyverse" (Jan. 28th)
   6. [Aljoscha Meyer](https://aljoscha-meyer.de/), "Authenticated Prefix Relations"
   7. Open (3 slots)
+
+### -> NGI/NLNet Experience Reports (Saturday January 28th pm)
+
+Developers funded through the [Next Generation Internet (NGI)](https://www.ngi.eu/) / [NL Net](https://nlnet.nl/) will present their latest results and share lessons learned from their participation in the programs. This is an opportunity to get first-hand support in implementing the standards they have developed, learn how to craft successful proposals to join the programs, and apply some of the results in your own projects. 
+
+Come to meet:
+1. [Andre Staltz](https://staltz.com) and [Jacob Karlsson](https://jacob-karlsson.com/) on [Manyverse](https://www.manyver.se/)
+2. [Alexander Cobleigh](https://cblgh.org/) on [Cabal](https://github.com/cabal-club)
+3. [Sam Gwilym](https://gwil.garden/) on [Earthstar](https://github.com/earthstar-project)
+4. [Anders Rune Jensen](https://people.iola.dk/arj/) on [ssb-browser](https://github.com/arj03/ssb-browser-core) and [ssb-db2](https://github.com/ssbc/ssb-db2)
+
+This session may run concurrently with other participant-organized sessions.
 
 ### -> [Paper Museum](https://www.baslerpapiermuehle.ch/museum/?lang=en) (Sunday January 29th Afternoon)
 
