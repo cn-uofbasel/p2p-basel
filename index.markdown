@@ -41,15 +41,16 @@ Current invited talks:
   6. [Aljoscha Meyer](https://aljoscha-meyer.de/), "Authenticated Prefix Relations"
   7. Open (3 slots)
 
-### -> NGI/NLNet Experience Reports (Saturday January 28th pm)
+### -> NGI/NLnet Experience Reports (Saturday January 28th pm)
 
-Developers funded through the [Next Generation Internet (NGI)](https://www.ngi.eu/) / [NL Net](https://nlnet.nl/) will present their latest results and share lessons learned from their participation in the programs. This is an opportunity to get first-hand support in implementing the standards they have developed, learn how to craft successful proposals to join the programs, and apply some of the results in your own projects. 
+Developers funded through the [Next Generation Internet (NGI)](https://www.ngi.eu/) / [NL net](https://nlnet.nl/) will present their latest results and share lessons learned from their participation in the programs. This is an opportunity to get first-hand support in implementing the standards they have developed, learn how to craft successful proposals to join the programs, and apply some of the results in your own projects. 
 
 Come to meet:
 1. [Andre Staltz](https://staltz.com) and [Jacob Karlsson](https://jacob-karlsson.com/) for [Manyverse](https://www.manyver.se/)
 2. [Alexander Cobleigh](https://cblgh.org/) for [Cabal](https://github.com/cabal-club)
 3. [Sam Gwilym](https://gwil.garden/) for [Earthstar](https://github.com/earthstar-project)
 4. [Anders Rune Jensen](https://people.iola.dk/arj/) for [ssb-browser](https://github.com/arj03/ssb-browser-core) and [ssb-db2](https://github.com/ssbc/ssb-db2)
+5. [Andreas Dzialocha](https://adz.garden/) for [P2Panda](https://p2panda.org/)
 
 This session may run concurrently with other participant-organized sessions.
 
