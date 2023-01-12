@@ -91,7 +91,7 @@ Additionally, if you have an **academic** affiliation and can give an invited ta
 
 ## Contacts
 
-- Sponsoring, Signal Group Moderation, Unconference Hosting: [@decentral1se](mailto:helo@autonomic.zone)
+- ~~Sponsoring~~ (closed), Signal Group Moderation, Unconference Hosting: [@decentral1se](mailto:helo@autonomic.zone)
 - Registration, Schedule, Invited Talks: [Erick Lavoie](mailto:erick.lavoie@unibas.ch)
 - Academic Sponsoring: [Christian Tschudin](mailto:christian.tschudin@unibas.ch)
 
