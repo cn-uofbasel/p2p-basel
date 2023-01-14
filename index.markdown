@@ -72,6 +72,7 @@ You can also already discuss with other participants via:
 
 - Signal Group (moderated): [https://signal.group/#CjQKILGN1m5zGIFqVW-4xJPIO5wgy655tDZQRREDmgKQEBzoEhBHVsTruzyJvNxOrIUrTM8u](https://signal.group/#CjQKILGN1m5zGIFqVW-4xJPIO5wgy655tDZQRREDmgKQEBzoEhBHVsTruzyJvNxOrIUrTM8u)
 - Secure-Scuttlebutt thread link: `%dL8mvkfRNtDOJncH3fM5r96w+I+mMNBB9WeLr0NRS3k=.sha256`
+- P2P Catering: https://pad.autonomic.zone/gTfXBtAuRj-lPcORlK6a4w?view
 
 ## Attendance Fees and Registration
 
