@@ -37,9 +37,10 @@ Current invited talks:
   1. Members of the [Computer Networks Group](https://cn.dmi.unibas.ch/) [[GitHub]](https://github.com/cn-uofbasel) (3 slots)
   2. [Martijn De Vos](https://devos50.github.io/), "TrustChain: A Lightweight, Distributed Ledger for Universal Work Accounting" [[repo]]( https://github.com/Tribler/bami/tree/master/src/bami/trustchain) [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0167739X17318988) [[follow-up paper]](https://www.sciencedirect.com/science/article/pii/S1389128621001705) (Jan. 28th)
   4. [Alexander Cobleigh](https://cblgh.org/), "Cabling Cabal: A binary, pull-based protocol to ditch the log, enable deletes and who knows what else", [[repo]](https://github.com/cabal-club/cable/)
-  5. [Andre Staltz](https://staltz.com), "Near future in SSB JS and Manyverse" (Jan. 28th)
+  5. [Andre Staltz](https://staltz.com), "Near future in SSB JS and Manyverse" (Jan. 28th) [[repo]](https://gitlab.com/staltz/manyverse)
   6. [Aljoscha Meyer](https://aljoscha-meyer.de/), "Authenticated Prefix Relations"
-  7. Open (3 slots)
+  7. [Sam Gwilym](https://gwil.garden/), "Implementing Set Reconciliation in Earthstar" [[repo]](https://github.com/earthstar-project)
+  8. Open (2 slots)
 
 ### -> NGI/NLnet Experience Reports (Saturday January 28th pm)
 
