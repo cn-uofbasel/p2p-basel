@@ -19,7 +19,7 @@ Venue for the event is the [Departement of Mathematics and Computer Science](htt
 |             |  Fri. Jan. 27           |  Sat. Jan. 28          |  Sun. Jan. 29                  |  Mon. Jan. 30          |
 | ----------- | :---------------------: | :--------------------: | :----------------------------: | :--------------------: |
 | **9h-12h**  | Newcomers Intro         | Invited Talks          | Invited Talks                  | *TBD*                  |
-| **13h-17h** | *TBD*                   | NGI/NLnet Experience Reports  | Paper Museum (optional)        | *TBD*                  |
+| **13h-17h** | Kuukkeli Remote / *TBD* | NGI/NLnet Experience Reports  | Paper Museum (optional)        | *TBD*                  |
 | **17h-...** | *TBD*                   | *TBD*                  | *TBD*                          | *TBD*                  |
 
 *TBD: To Be Decided by participants ([unconference style](https://en.wikipedia.org/wiki/Unconference))
@@ -28,6 +28,11 @@ Venue for the event is the [Departement of Mathematics and Computer Science](htt
 
 You do not need to be familiar with Secure-Scuttlebutt to join! An introduction session will be hosted for newcomers to learn about the fundamentals, prior to the rest of the event. You can already get acquainted with [related material](#references).
 
+### -> Kuukkeli Hacklab Remote Presentation (Friday January 27th Afternoon)
+
+Starting at 13h CET, Sami will remotely present *Atacama: retrocomputing-proof distributed twitter-like* from a hacker space/lounge in Finland. The featured presentation will last 20 min. + 10 min. for questions. Notwithstanding technical or logistical issues, we will try keeping the connection open afterwards for remote interaction. 
+
+The rest of the afternoon is open to participant-driven sessions.
 
 ### -> Invited Talks (Saturday January 28th and Sunday January 29th Mornings)
 
