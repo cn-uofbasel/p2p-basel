@@ -60,11 +60,11 @@ Come to meet:
 
 This session may run concurrently with other participant-organized sessions.
 
-### -> Basel Tour (optional)
+### -> Basel Tour (Saturday January 28th evening)
 
 Luc Heitz, one of the participants and student at University of Basel, kindly offered to guide a tour of Basel around the Department and present some historical landmarks and facts.
 
-This session may run concurrently with other participant-organized sessions.
+Attendance is optional and the session may run concurrently with other participant-organized sessions.
 
 ### -> [Paper Museum](https://www.baslerpapiermuehle.ch/museum/?lang=en) (Sunday January 29th Afternoon)
 
