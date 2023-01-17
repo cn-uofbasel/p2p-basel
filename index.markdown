@@ -20,7 +20,7 @@ Venue for the event is the [Departement of Mathematics and Computer Science](htt
 | ----------- | :---------------------: | :--------------------: | :----------------------------: | :--------------------: |
 | **9h-12h**  | Newcomers Intro         | Invited Talks          | Invited Talks                  | *TBD*                  |
 | **13h-17h** | Kuukkeli Remote / *TBD* | NGI/NLnet Experience / *TBD*  | Paper Museum (optional)        | *TBD*                  |
-| **17h-...** | *TBD*                   | *TBD*                  | *TBD*                          | *TBD*                  |
+| **17h-...** | *TBD*                   | Basel Tour (optional) / *TBD*                  | *TBD*                          | *TBD*                  |
 
 *TBD: To Be Decided by participants ([unconference style](https://en.wikipedia.org/wiki/Unconference))
 
@@ -57,6 +57,12 @@ Come to meet:
 3. [Sam Gwilym](https://gwil.garden/) for [Earthstar](https://github.com/earthstar-project)
 4. [Anders Rune Jensen](https://people.iola.dk/arj/) for [ssb-browser](https://github.com/arj03/ssb-browser-core) and [ssb-db2](https://github.com/ssbc/ssb-db2)
 5. [Andreas Dzialocha](https://adz.garden/) for [P2Panda](https://p2panda.org/)
+
+This session may run concurrently with other participant-organized sessions.
+
+### -> Basel Tour (optional)
+
+Luc Heitz, one of the participants and student at University of Basel, kindly offered to guide a tour of Basel around the Department and present some historical landmarks and facts.
 
 This session may run concurrently with other participant-organized sessions.
 
