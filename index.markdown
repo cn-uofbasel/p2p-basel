@@ -48,7 +48,7 @@ Current invited talks:
   6. [Aljoscha Meyer](https://aljoscha-meyer.de/), "Authenticated Prefix Relations"
   7. [Sam Gwilym](https://gwil.garden/), "Implementing Set Reconciliation in Earthstar" [[repo]](https://github.com/earthstar-project)
   8. [Filip Borkiewicz](https://0x46.net/), "Scuttlego" (Jan. 29th) [[repo]](https://github.com/planetary-social/scuttlego) 
-  9. Open (1 slots)
+  9. [Andreas Dzialocha and Sam Andrea](https://p2panda.org/about/), "P2Panda", [[website]](https://p2panda.org/) [[repo]](https://github.com/p2panda)
 
 ### -> NGI/NLnet Experience Reports (Saturday January 28th pm)
 
