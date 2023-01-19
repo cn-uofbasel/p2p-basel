@@ -45,7 +45,8 @@ Current invited talks:
   5. [Andre Staltz](https://staltz.com), "Near future in SSB JS and Manyverse" (Jan. 28th) [[repo]](https://gitlab.com/staltz/manyverse)
   6. [Aljoscha Meyer](https://aljoscha-meyer.de/), "Authenticated Prefix Relations"
   7. [Sam Gwilym](https://gwil.garden/), "Implementing Set Reconciliation in Earthstar" [[repo]](https://github.com/earthstar-project)
-  8. Open (2 slots)
+  8. [Filip Borkiewicz](https://0x46.net/), "Scuttlego" (Jan. 29th) [[repo]](https://github.com/planetary-social/scuttlego) 
+  9. Open (1 slots)
 
 ### -> NGI/NLnet Experience Reports (Saturday January 28th pm)
 
