@@ -73,9 +73,11 @@ Luc Heitz, one of the participants and student at University of Basel, kindly of
 
 Attendance is optional and the session may run concurrently with other participant-organized sessions.
 
-### -> [Paper Museum](https://www.baslerpapiermuehle.ch/museum/?lang=en) (Sunday January 29th Afternoon)
+### -> [Paper Museum](https://www.baslerpapiermuehle.ch/museum/?lang=en) (Sunday January 29th 13h)
 
 We have reserved a 2h guided tour of the Paper Museum, which also includes hands-on papermaking and printing. Let us know if you are interested, the number of spots is limited!
+
+*For participants of the paper museum tour, lunch will happen from 11:30am-12:30pm so that we will arrive on time for the activity at 13h.* 
 
 ## Travel and Accommodations
 
