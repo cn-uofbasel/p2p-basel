@@ -28,7 +28,9 @@ Venue for the event is the [Departement of Mathematics and Computer Science](htt
 
 ### -> Newcomers Intro to Secure-Scuttlebutt (Friday January 27th Morning)
 
-You do not need to be familiar with Secure-Scuttlebutt to join! An introduction session will be hosted for newcomers to learn about the fundamentals, prior to the rest of the event. You can already get acquainted with [related material](#references).
+You do not need to be familiar with Secure-Scuttlebutt to join! An introduction session will be hosted for newcomers to learn about the fundamentals, prior to the rest of the event. Andre Garzia will host the session, supported by other attendees.
+
+You can already get acquainted with [related material](#references).
 
 ### -> Kuukkeli Hacklab Remote Presentation (Friday January 27th Afternoon)
 
