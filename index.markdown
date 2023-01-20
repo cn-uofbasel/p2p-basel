@@ -8,7 +8,7 @@ layout: home
 
 ![banner](/banner.png)
 
-## **REGISTRATION CLOSED FOR FRIDAY AND SATURDAY. SPOTS STILL AVAILABLE SUNDAY AND MONDAY. SEE [BELOW](#attendance-fees-and-registration).** 
+## **REGISTRATION CLOSED.** 
 
 [Secure Scuttlebutt (SSB)](https://scuttlebutt.nz/) is an application-level, secure and persisted publish/subscribe system that has gained popularity in the decentralized Web movement. The aim of this workshop is to bring together researchers, software builders and members of the SSB community to study the properties and potential of Secure Scuttlebutt. The workshop is open to other decentralized approaches and networking technologies e.g. DAT, Holochain, IPFS or SOLID, as problems and technologies often have considerable similarities. Also, a SSB tutorial precedes the workshop, helping people to get familiar with the Secure Scuttlebutt technology and value system in short time. ~~Limited travel and accommodation grants are available to help facilitate attendance from people without institutional funding~~ We've received several applications, this grant opportunity is now closed. A **huge thank you** to SSBC and Planetary for providing financial support 💗
 
@@ -99,14 +99,15 @@ You can also already discuss with other participants via:
 
 ## Attendance Fees and Registration
 
-**REGISTRATION CLOSED FOR FRIDAY AND SATURDAY BUT YOU CAN BE ADDED ON A WAITING LIST IN CASE SOMEONE CANCELS. STILL 2 SPOTS AVAILABLE FOR SUNDAY, 4 SPOTS FOR MONDAY.**
+**REGISTRATION CLOSED.**
 
-We ask for 20 CHF/day (20 EUR/day) for attendance, to help cover meal costs (at least breakfast and lunch, hopefully dinner as well). You can pay on site on the day of the event. To register, please send an email to [Erick Lavoie](mailto:erick.lavoie@unibas.ch) as soon as possible with answers to the following questions:
+~~We ask for 20 CHF/day (20 EUR/day) for attendance, to help cover meal costs (at least breakfast and lunch, hopefully dinner as well). You can pay on site on the day of the event. To register, please send an email to [Erick Lavoie](mailto:erick.lavoie@unibas.ch) as soon as possible with answers to the following questions:~~
 
 1. Which day(s) do you plan to attend?
 2. Do you plan to give a talk? Which topic?
 3. Will you attend the Paper Museum activity?
 4. Any initiative in helping run the event you would like to share?
+
 
 ### Sponsoring
 
