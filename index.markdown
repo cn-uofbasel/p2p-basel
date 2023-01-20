@@ -36,7 +36,7 @@ Starting at 13h CET, Sami will remotely present *Atacama: retrocomputing-proof d
 
 The rest of the afternoon is open to participant-driven sessions.
 
-### -> Official Welcome (Saturday January 28th 9am-9:15am)
+### -> Official Welcome (Saturday January 28th 9h-9h15)
 
 Almost all registered participants will be there on Saturday morning, so we will make the official welcome presentation at that time.
 
@@ -77,7 +77,7 @@ Attendance is optional and the session may run concurrently with other participa
 
 We have reserved a 2h guided tour of the Paper Museum, which also includes hands-on papermaking and printing. Let us know if you are interested, the number of spots is limited!
 
-*For participants of the paper museum tour, lunch will happen from 11:30am-12:30pm so that we will arrive on time for the activity at 13h.* 
+*For participants of the paper museum tour, lunch will happen from 11h30-12h30 so that we will arrive on time for the activity at 13h.* 
 
 ## Travel and Accommodations
 
