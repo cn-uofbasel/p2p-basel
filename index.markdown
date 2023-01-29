@@ -53,7 +53,7 @@ Current invited talks:
   7. [Sam Gwilym](https://gwil.garden/), "Implementing Set Reconciliation in Earthstar" [[repo]](https://github.com/earthstar-project)
   8. [Filip Borkiewicz](https://0x46.net/), "Scuttlego" (Jan. 29th) [[repo]](https://github.com/planetary-social/scuttlego) 
   9. [Andreas Dzialocha and Sam Andreae](https://p2panda.org/about/), "P2Panda", [[website]](https://p2panda.org/) [[repo]](https://github.com/p2panda) (Jan. 28th)
-  10. Erick Lavoie, "Fork replication and detection with Git", [repo](https://github.com/cn-uofbasel/ssb-over-git)
+  10. Erick Lavoie, "Fork replication and detection with Git", [[repo]](https://github.com/cn-uofbasel/ssb-over-git)
 
 ### -> NGI/NLnet Experience Reports (Saturday January 28th pm)
 
