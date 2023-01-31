@@ -4,17 +4,13 @@
 layout: home
 ---
 
-| [Venue](#venue) | [Schedule](#schedule-overview) | [Travel&Accom.](#travel-and-accommodations) | [Volunteer](#volunteering-and-self-organization) | [Register](#attendance-fees-and-registration) | [Contacts](#contacts) | [References](#references) |
+| [Schedule](#schedule-overview) | [Travel&Accom.](#travel-and-accommodations) | [Volunteer](#volunteering-and-self-organization) | [Register](#attendance-fees-and-registration) | [Contacts](#contacts) | [References](#references) |
 
 ![banner](/banner.png)
 
 ## **REGISTRATION CLOSED.** 
 
 [Secure Scuttlebutt (SSB)](https://scuttlebutt.nz/) is an application-level, secure and persisted publish/subscribe system that has gained popularity in the decentralized Web movement. The aim of this workshop is to bring together researchers, software builders and members of the SSB community to study the properties and potential of Secure Scuttlebutt. The workshop is open to other decentralized approaches and networking technologies e.g. DAT, Holochain, IPFS or SOLID, as problems and technologies often have considerable similarities. Also, a SSB tutorial precedes the workshop, helping people to get familiar with the Secure Scuttlebutt technology and value system in short time. ~~Limited travel and accommodation grants are available to help facilitate attendance from people without institutional funding~~ We've received several applications, this grant opportunity is now closed. A **huge thank you** to SSBC and Planetary for providing financial support 💗
-
-## Venue
-
-Venue for the event is the [Departement of Mathematics and Computer Science](https://dmi.unibas.ch/en/) of the [University of Basel](https://www.unibas.ch/en.html), located at [Spiegelgasse 1](https://www.openstreetmap.org/node/5228942689). Talks and discussions will happen in the conference room on the 6th floor. Food and refreshments will be available in the adjacent cafeteria.
 
 ## Schedule Overview
 
