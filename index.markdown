@@ -36,7 +36,9 @@ The rest of the afternoon is open to participant-driven sessions.
 
 Almost all registered participants will be there on Saturday morning, so we will make the official welcome presentation at that time.
 
-### -> Invited Talks (Saturday January 28th and Sunday January 29th Mornings)
+### -> Invited Talks (Saturday January 28th [[Recordings 1]](https://archive.org/details/p2p-basel-2023-day1) and Sunday January 29th Mornings [[Recordings 2]](https://archive.org/details/p2p-basel-2023-day2))
+
+**Talks now online at Archive.org (click links in the title)**
 
 Saturday and Sunday mornings will have 20-minutes talks, each followed by a question period of 10 minutes. There are 5 slots reserved on each day. These slots are intended for more structured presentations prepared in advance of the event. This is especially relevant if you want to present prior published academic work, progress reports on ongoing projects, or any other topic you have spent significant time reflecting upon. Please contact [Erick Lavoie](#contacts) to discuss your talk proposal.
 
@@ -128,3 +130,4 @@ You might like to get acquainted with related material produced by SSB community
   * [*A Broadcast-Only Communication Model Based on Replicated Append-Only Logs*](https://dl.acm.org/doi/abs/10.1145/3336937.3336943): A note on how using broadcast as a fundamental communication primitive leads to replicated append-only logs. [[paper]](https://dl.acm.org/doi/abs/10.1145/3336937.3336943) 
   * [*Range-Based Set Reconciliation and Authenticated Set Representations*](https://github.com/AljoschaMeyer/master_thesis): Replication protocol based on sets instead of the logs currently used by SSB. [[paper]](https://arxiv.org/pdf/2212.13567.pdf) [[master thesis]](https://github.com/AljoschaMeyer/master_thesis)
   * [*A Connectionless Grow-Only Set CRDT*](https://dl.acm.org/doi/10.1145/3565383.3566110): Technique to compress packet size between replicators without needing prior connection. [[paper]](https://dl.acm.org/doi/10.1145/3565383.3566110) 
+  * *Online Recordings of Invited Talks at P2P Basel 2023*: [[Saturday January 28th]](https://archive.org/details/p2p-basel-2023-day1), [[Sunday January 29th]](https://archive.org/details/p2p-basel-2023-day2)
