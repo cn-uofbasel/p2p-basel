@@ -1,8 +1,0 @@
----
-layout: post
-title:  "See you in 3 weeks!"
-date:   2023-01-04 12:00:00 +0100
-categories: jekyll update
----
-
-Potential updates will be published as posts. Subscribe to the [RSS feed](/feed.xml) to be notified!

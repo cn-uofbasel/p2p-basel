@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: P2P Basel 2023
+title: P2P Basel 2024
 description: >- # this means to ignore newlines until "baseurl:"
-  Annual academic workshop and community meetup on the Secure-Scuttlebutt
-  protocol and related Peer-to-Peer projects.
+  Annual academic and free-and-open-source-software (FOSS) development workshop 
+  on eventually-consistent (offline-first) peer-to-peer technologies.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "p2p-basel.org" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -32,7 +32,7 @@ plugins:
 
 minima:
   social_links:
-    - { platform: github,         user_url: "https://github.com/cn-uofbasel/p2p-basel-2023" }
+    - { platform: github,         user_url: "https://github.com/cn-uofbasel/p2p-basel" }
 
 # Exclude from processing.
 # The following items will not be processed, by default.

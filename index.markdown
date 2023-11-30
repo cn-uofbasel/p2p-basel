@@ -6,123 +6,107 @@ layout: home
 
 | [Schedule](#schedule-overview) | [Travel&Accom.](#travel-and-accommodations) | [Volunteer](#volunteering-and-self-organization) | [Register](#attendance-fees-and-registration) | [Contacts](#contacts) | [References](#references) |
 
-![banner](/banner.png)
+![banner](/banner-p2p-basel-2024.png)
 
-## **REGISTRATION CLOSED.** 
+The aim of the P2P Basel workshop is to bring together researchers and software builders to share insights and collaborate towards the sound and sustainable development of efficient eventually-consistent (offline-first) peer-to-peer systems. Examples of related projects of interest are [Secure-Scuttlebutt](https://www.scuttlebutt.nz/), [DAT/Hypercore](https://docs.holepunch.to/), [Cabal](https://cabal.chat/), [Socket Supply co.](https://socketsupply.co/), [Earthstar](https://earthstar-project.org/), [Willow](https://willowprotocol.org/), [Nostr](https://nostr.com/), [Holochain](https://www.holochain.org/), [P2Panda](https://p2panda.org/).
 
-[Secure Scuttlebutt (SSB)](https://scuttlebutt.nz/) is an application-level, secure and persisted publish/subscribe system that has gained popularity in the decentralized Web movement. The aim of this workshop is to bring together researchers, software builders and members of the SSB community to study the properties and potential of Secure Scuttlebutt. The workshop is open to other decentralized approaches and networking technologies e.g. DAT, Holochain, IPFS or SOLID, as problems and technologies often have considerable similarities. Also, a SSB tutorial precedes the workshop, helping people to get familiar with the Secure Scuttlebutt technology and value system in short time. ~~Limited travel and accommodation grants are available to help facilitate attendance from people without institutional funding~~ We've received several applications, this grant opportunity is now closed. A **huge thank you** to SSBC and Planetary for providing financial support 💗
+The workshop is intended for 14 participants, 4 from the [Computer Networks Group @ Unibasel](https://cn.dmi.unibas.ch/) and 10 invited external researchers and developers. The workshop is intentionally kept small to encourage deep technical discussions, foster strong collaborations between participants, and make the logistics easier to manage collaboratively.
 
 ## Schedule Overview
 
-|             |  Fri. Jan. 27           |  Sat. Jan. 28          |  Sun. Jan. 29                  |  Mon. Jan. 30          |
-| ----------- | :---------------------: | :--------------------: | :----------------------------: | :--------------------: |
-| **9h-12h**  | Newcomers Intro         | Official Welcome / Invited Talks          | Invited Talks                  | *TBD*                  |
-| **13h-17h** | Kuukkeli Remote / *TBD* | NGI/NLnet Experience / *TBD*  | Paper Museum (optional)        | *TBD*                  |
-| **17h-...** | *TBD*                   | Basel Tour (optional) / *TBD*                  | *TBD*                          | *TBD*                  |
+|             |  Fri. Jan. 26           |  Sat. Jan. 27                      |  Sun. Jan. 28                    |
+| ----------- | :---------------------: | :--------------------------------: | :----------------------------:   |
+| **9h-12h**  | Tutorials/Lectures      | Official Welcome / Invited Talks   | Invited Talks                    |
+| **14h-18h** | Tutorials/Lectures      | *TBD*                              | *TBD*/Tinguely Museum (optional) |
+| **20h-...** | *TBD*                   | *TBD*                              | *TBD*                            |
 
 *TBD: To Be Decided by participants ([unconference style](https://en.wikipedia.org/wiki/Unconference))
 
-### -> Newcomers Intro to Secure-Scuttlebutt (Friday January 27th Morning)
+### -> Invited Tutorials/Lectures (Friday January 26th Morning & Afternoon)
 
-You do not need to be familiar with Secure-Scuttlebutt to join! An introduction session will be hosted for newcomers to learn about the fundamentals, prior to the rest of the event. You can already get acquainted with [related material](#references).
+We will have up to 6 introduction tutorials and lectures of ~1h on core topics
+of interest:
 
-### -> Kuukkeli Hacklab Remote Presentation (Friday January 27th Afternoon)
+  1. "Git Internals" by [Ali Ajorian](https://dmi.unibas.ch/en/persons/ajorian-ali/) [Ref: [Git Book v2, Git Internals Sections 10.1-10.3](https://git-scm.com/book/en/v2/Git-Internals-Plumbing-and-Porcelain)]
 
-Starting at 13h CET, Sami will remotely present *Atacama: retrocomputing-proof distributed twitter-like* from a hacker space/lounge in Finland. The featured presentation will last 20 min. + 10 min. for questions. Notwithstanding technical or logistical issues, we will try keeping the connection open afterwards for remote interaction. 
+       ````This will be an interactive session in which you will be invited to follow along by running commands in your terminal.````
 
-The rest of the afternoon is open to participant-driven sessions.
+  2. "Cryptographic Primitives" by [Osman Biçer](https://dmi.unibas.ch/en/persons/bicer-osman/)
+  3. "Fundamentals of Reliable Distributed Programming" by [Erick Lavoie](https://dmi.unibas.ch/en/persons/lavoie-erick)
+  4. "State-based Conflict-Free Replicated Datatypes (CRDTs)" by [Erick Lavoie](https://dmi.unibas.ch/en/persons/lavoie-erick)
+  5. *To be announced*
+  6. *To be announced*
 
-### -> Official Welcome (Saturday January 28th 9h-9h15)
+These lectures are open to students and researchers of the Department of
+Mathematics and Computer Science at University of Basel. Participants are invited to 
+prepare in advance by reading the relevant reference material.
 
-Almost all registered participants will be there on Saturday morning, so we will make the official welcome presentation at that time.
 
-### -> Invited Talks (Saturday January 28th [[Recordings 1]](https://archive.org/details/p2p-basel-2023-day1) and Sunday January 29th Mornings [[Recordings 2]](https://archive.org/details/p2p-basel-2023-day2))
+### -> Official Welcome (Saturday January 27th 9h-9h15)
 
-**Talks now online at Archive.org (click links in the title)**
+The official opening of the workshop will be done on Saturday morning.
 
-Saturday and Sunday mornings will have 20-minutes talks, each followed by a question period of 10 minutes. There are 5 slots reserved on each day. These slots are intended for more structured presentations prepared in advance of the event. This is especially relevant if you want to present prior published academic work, progress reports on ongoing projects, or any other topic you have spent significant time reflecting upon. Please contact [Erick Lavoie](#contacts) to discuss your talk proposal.
+
+### -> Invited Talks (Saturday January 27th and Sunday January 28th Mornings)
+
+**Format**: Saturday and Sunday mornings will have 15-minutes talks, each followed by a question period of 5 minutes. There are 7 slots reserved on each day, enough for each participant to present. These slots are intended for structured presentations prepared in advance of the event. 
+
+**Purpose**: The invited talks should present new insights that are likely to be useful to other participants in their own projects. These insights might come, for example, from having deeply reflected about fundamental problems, or found unexpected issues in deployments that you wished you had known earlier because they would have led to different design decisions. You are strongly encouraged, but not obliged, to publish those insights in citable academic papers (such as pre-prints on [Arxiv](https://arxiv.org/)) or blog posts on your project's website prior to your talk. If you do so, we will link to them next to your talk. 
+
+The talks are not intended for general marketing of your project: all participants are already fully busy advancing their own project(s) and so they are unlikely to drop theirs to join yours. Marketing towards a general audience will be better served by other venues (blog posts, videos, talks in larger conferences, etc.).
+
+**Diffusion**: You do not need to attend the workshop to see the talks. We will make them available publicly after the event, hopefully on Archive.org as for the 2023 edition (ex: [Sat. Jan. 28th, 2023](https://archive.org/details/p2p-basel-2023-day1), [Sun. Jan. 29th](https://archive.org/details/p2p-basel-2023-day2)).
 
 Current invited talks:
-  1. Members of the [Computer Networks Group](https://cn.dmi.unibas.ch/) [[GitHub]](https://github.com/cn-uofbasel) (3 slots)
-  2. [Martijn De Vos](https://devos50.github.io/), "TrustChain: A Lightweight, Distributed Ledger for Universal Work Accounting" [[repo]]( https://github.com/Tribler/bami/tree/master/src/bami/trustchain) [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0167739X17318988) [[follow-up paper]](https://www.sciencedirect.com/science/article/pii/S1389128621001705) (Jan. 28th)
-  4. [Alexander Cobleigh](https://cblgh.org/), "Cabling Cabal: A binary, pull-based protocol to ditch the log, enable deletes and who knows what else", [[repo]](https://github.com/cabal-club/cable/)
-  5. [Andre Staltz](https://staltz.com), "Near future in SSB JS and Manyverse" (Jan. 28th) [[repo]](https://gitlab.com/staltz/manyverse)
-  6. [Aljoscha Meyer](https://aljoscha-meyer.de/), "Authenticated Prefix Relations"
-  7. [Sam Gwilym](https://gwil.garden/), "Implementing Set Reconciliation in Earthstar" [[repo]](https://github.com/earthstar-project)
-  8. [Filip Borkiewicz](https://0x46.net/), "Scuttlego" (Jan. 29th) [[repo]](https://github.com/planetary-social/scuttlego) 
-  9. [Andreas Dzialocha and Sam Andreae](https://p2panda.org/about/), "P2Panda", [[website]](https://p2panda.org/) [[repo]](https://github.com/p2panda) (Jan. 28th)
-  10. Erick Lavoie, "Fork replication and detection with Git", [[repo]](https://github.com/cn-uofbasel/ssb-over-git)
+  1. Members of the [Computer Networks Group](https://cn.dmi.unibas.ch/) [[GitHub]](https://github.com/cn-uofbasel) (4 slots)
+  2. To be announced (10 slots)
 
-### -> NGI/NLnet Experience Reports (Saturday January 28th pm)
-
-Developers funded through the [Next Generation Internet (NGI)](https://www.ngi.eu/) / [NL net](https://nlnet.nl/) will present their latest results and share lessons learned from their participation in the programs. This is an opportunity to get first-hand support in implementing the standards they have developed, learn how to craft successful proposals to join the programs, and apply some of the results in your own projects. 
-
-Come to meet:
-1. [Andre Staltz](https://staltz.com) and [Jacob Karlsson](https://jacob-karlsson.com/) for [Manyverse](https://www.manyver.se/)
-2. [Alexander Cobleigh](https://cblgh.org/) for [Cabal](https://github.com/cabal-club)
-3. [Sam Gwilym](https://gwil.garden/) for [Earthstar](https://github.com/earthstar-project)
-4. [Anders Rune Jensen](https://people.iola.dk/arj/) for [ssb-browser](https://github.com/arj03/ssb-browser-core) and [ssb-db2](https://github.com/ssbc/ssb-db2)
-5. [Andreas Dzialocha](https://adz.garden/) for [P2Panda](https://p2panda.org/)
-
-This session may run concurrently with other participant-organized sessions.
-
-### -> Basel Tour (Saturday January 28th evening)
-
-Luc Heitz, one of the participants and student at University of Basel, kindly offered to guide a tour of Basel around the Department and present some historical landmarks and facts.
-
-Attendance is optional and the session may run concurrently with other participant-organized sessions.
-
-### -> [Paper Museum](https://www.baslerpapiermuehle.ch/museum/?lang=en) (Sunday January 29th 13h)
-
-We have reserved a 2h guided tour of the Paper Museum, which also includes hands-on papermaking and printing. Let us know if you are interested, the number of spots is limited!
-
-*For participants of the paper museum tour, lunch will happen from 11h30-12h30 so that we will arrive on time for the activity at 13h.* 
+### -> [Tinguely Museum](https://www.tinguely.ch/en.html) (Sunday January 28th 13h)
 
 ## Travel and Accommodations
 
-You will have to organize travel and accommodations yourself. Basel is easily accessible by train and by plane. To share accommodation costs, you can synchronize with [other participants](#volunteering-and-self-organization). 
+You will have to organize travel and accommodations yourself. Basel is easily
+accessible by train and by plane. The cheapest hosting option is typically
+AirBnB.
 
 ## Volunteering and Self-Organization
 
-Most of the program will be done in a participant-driven [unconference style](https://en.wikipedia.org/wiki/Unconference). You can already think about sessions you'd like to host, discussions you'd like to initiate, etc. And if you feel like it, why not prepare a lightning talk?
+Half of the program will be done in a participant-driven [unconference style](https://en.wikipedia.org/wiki/Unconference). You can already think about sessions you'd like to host, discussions you'd like to initiate, etc.
 
-Also, we'd love to see people take responsibility for some part of the event: perhaps you'd like to coordinate the preparation of a meal, host the lightning talks, know a way of gently raising people's energy on Monday morning, or see another opportunity that is currently missing in the schedule? Then please [reach out to us](#contacts) and we'll make sure you can have your fun =). Any suggestions for vegan recipes are greatly appreciated.
+To keep registration fees low, we will collectively cook and clean for ourselves during the event. All participants are expected to contribute: aprons and kitchenware are provided. Meals will be organized so that they do not require more than 30-60 minutes of preparation/cleaning from volunteers during the meal breaks, and will cook (if needed) in automated cookware during the sessions.
 
-You can also already discuss with other participants via:
+## Registration and Attendance Fees
 
-- Secure-Scuttlebutt thread link: `%dL8mvkfRNtDOJncH3fM5r96w+I+mMNBB9WeLr0NRS3k=.sha256`
-- P2P Catering: [https://pad.autonomic.zone/gTfXBtAuRj-lPcORlK6a4w?view](https://pad.autonomic.zone/gTfXBtAuRj-lPcORlK6a4w?view)
+The workshop is by invitation from the organizers only. To have an
+opportunity to be invited in future editions, publicly contribute to
+eventually-consistent peer-to-peer systems in one or many of the following
+ways: publish your insights in pre-print venues, such as
+[Arxiv](https://arxiv.org/), write insightful posts on your blog, and
+contribute to the technical development of eventually-consistent peer-to-peer
+systems.
 
-## Attendance Fees and Registration
-
-**REGISTRATION CLOSED.**
-
-~~We ask for 20 CHF/day (20 EUR/day) for attendance, to help cover meal costs (at least breakfast and lunch, hopefully dinner as well). You can pay on site on the day of the event. To register, please send an email to [Erick Lavoie](mailto:erick.lavoie@unibas.ch) as soon as possible with answers to the following questions:~~
-
-1. Which day(s) do you plan to attend?
-2. Do you plan to give a talk? Which topic?
-3. Will you attend the Paper Museum activity?
-4. Any initiative in helping run the event you would like to share?
-
+We ask for 60 CHF/EUR for attendance, regardless of when you arrive or leave,
+to cover meal costs including breakfast, lunch, and dinner. 
 
 ### Sponsoring
 
-~~We have some limited funding opportunities from [SSBC](https://opencollective.com/secure-scuttlebutt-consortium) and [Planetary](https://www.planetary.social/) to help cover travel and accommodation, these will be assessed on a case-by-case basis. Contact [@decentral1se](mailto:helo@autonomic.zone)~~ We've received several applications, this grant opportunity is now closed. A **huge thank you** to SSBC and Planetary for providing financial support 💗
-
-Additionally, if you have an **academic** affiliation and can give an invited talk on some SSB-related topic, the Computer Networks Group can access university funds to help cover travel and accommodation. Contact [Christian Tschudin](mailto:christian.tschudin@unibas.ch).
-
+If you have an **academic** affiliation and will give a talk, the Computer Networks Group can access university funds to help cover travel and accommodation. Contact [Christian Tschudin](mailto:christian.tschudin@unibas.ch).
 
 ## Contacts
 
-- ~~Sponsoring~~ (closed), Signal Group Moderation, Unconference Hosting: [@decentral1se](mailto:helo@autonomic.zone)
 - Registration, Schedule, Invited Talks: [Erick Lavoie](mailto:erick.lavoie@unibas.ch)
 - Academic Sponsoring: [Christian Tschudin](mailto:christian.tschudin@unibas.ch)
 
 ## References
 
-You might like to get acquainted with related material produced by SSB community members. These are listed from most accessible to more advanced:
 
-  * [SSB Website](https://scuttlebutt.nz/) with [video talks](https://scuttlebutt.nz/docs/talks/)
+### Books
+  * *Scott Chacon, Ben Straub*, "Pro Git: 2nd Edition (2014)", [[website](https://git-scm.com/book/en/v2)]
+  * *Oded Goldreich*, "Foundations of Cryptography" [[Vol I: Basic Tools](https://www.cambridge.org/us/universitypress/subjects/computer-science/cryptography-cryptology-and-coding/foundations-cryptography-volume-1), [Vol II: Basic Applications](https://www.cambridge.org/us/universitypress/subjects/computer-science/cryptography-cryptology-and-coding/foundations-cryptography-volume-2)]
+  * *Christian Cachin, Rachid Guerraoui, Luis Rodrigues*, "Reliable and Secure Distributed Programming (2nd Edition)", [[website](https://distributedprogramming.net/), [ebook](https://link.springer.com/book/10.1007/978-3-642-15260-3)]
+
+### Academic Papers
+
   * [*Alternative Social Media and the Complexities of a More Participatory Culture: A View From Scuttlebutt*](https://journals.sagepub.com/doi/10.1177/20563051221122448): Ethnographic study of Secure-Scuttlebutt, developed through active participation within the community.   [[media article]](https://theconversation.com/its-hard-to-imagine-better-social-media-alternatives-but-scuttlebutt-shows-change-is-possible-190351)  [[paper]](https://journals.sagepub.com/doi/epub/10.1177/20563051221122448)
   * [*Gossiping with Append-Only Logs in Secure-Scuttlebutt*](https://dl.acm.org/doi/abs/10.1145/3428662.3428794): High-level presentation of the core replication protocol and open questions. [[9min. presentation]](https://www.youtube.com/watch?v=rvaM74AgCmM&t=1s) [[paper]](https://dl.acm.org/doi/abs/10.1145/3428662.3428794)
   * [*Secure Scuttlebutt: An Identity-Centric Protocol for Subjective and Decentralized Applications*](https://dl.acm.org/doi/abs/10.1145/3357150.3357396): High-level presentation of SSB, with a comparison to another information-centric approach (Named Data Networking) [[paper]](https://dl.acm.org/doi/abs/10.1145/3357150.3357396)
@@ -130,4 +114,9 @@ You might like to get acquainted with related material produced by SSB community
   * [*A Broadcast-Only Communication Model Based on Replicated Append-Only Logs*](https://dl.acm.org/doi/abs/10.1145/3336937.3336943): A note on how using broadcast as a fundamental communication primitive leads to replicated append-only logs. [[paper]](https://dl.acm.org/doi/abs/10.1145/3336937.3336943) 
   * [*Range-Based Set Reconciliation and Authenticated Set Representations*](https://github.com/AljoschaMeyer/master_thesis): Replication protocol based on sets instead of the logs currently used by SSB. [[paper]](https://arxiv.org/pdf/2212.13567.pdf) [[master thesis]](https://github.com/AljoschaMeyer/master_thesis)
   * [*A Connectionless Grow-Only Set CRDT*](https://dl.acm.org/doi/10.1145/3565383.3566110): Technique to compress packet size between replicators without needing prior connection. [[paper]](https://dl.acm.org/doi/10.1145/3565383.3566110) 
-  * *Online Recordings of Invited Talks at P2P Basel 2023*: [[Saturday January 28th]](https://archive.org/details/p2p-basel-2023-day1), [[Sunday January 29th]](https://archive.org/details/p2p-basel-2023-day2)
+
+
+### Others
+
+  * [Secure Scuttlebutt video talks](https://scuttlebutt.nz/docs/talks/)
+  * Previous editions: [2023](./2023)
