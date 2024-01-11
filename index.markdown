@@ -8,7 +8,7 @@ layout: home
 
 ![banner](/banner-p2p-basel-2024.png)
 
-The aim of the P2P Basel workshop is to bring together researchers and software builders to share insights and collaborate towards the sound and sustainable development of efficient eventually-consistent (offline-first) peer-to-peer systems. Examples of related projects of interest are [Secure-Scuttlebutt](https://www.scuttlebutt.nz/), [DAT/Hypercore](https://docs.holepunch.to/), [Cabal](https://cabal.chat/), [Socket Supply co.](https://socketsupply.co/), [Earthstar](https://earthstar-project.org/), [Willow](https://willowprotocol.org/), [Nostr](https://nostr.com/), [Holochain](https://www.holochain.org/), [P2Panda](https://p2panda.org/).
+The aim of the P2P Basel workshop is to bring together researchers and software builders to share insights and collaborate towards the sound and sustainable development of efficient eventually-consistent (offline-first) peer-to-peer systems. Examples of related projects of interest are [Secure-Scuttlebutt](https://www.scuttlebutt.nz/), [DAT/Hypercore](https://docs.holepunch.to/), [Cabal](https://cabal.chat/), [Socket Supply co.](https://socketsupply.co/), [Earthstar](https://earthstar-project.org/), [Willow](https://willowprotocol.org/), [Nostr](https://nostr.com/), [Holochain](https://www.holochain.org/), [P2Panda](https://p2panda.org/), [GNUnet](https://www.gnunet.org/).
 
 The workshop is intended for 14 participants, 4 from the [Computer Networks Group @ Unibasel](https://cn.dmi.unibas.ch/) and 10 invited external researchers and developers. The workshop is intentionally kept small to encourage deep technical discussions, foster strong collaborations between participants, and make the logistics easier to manage collaboratively.
 
