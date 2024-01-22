@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: P2P Basel 2024
+title: P2P Basel
 description: >- # this means to ignore newlines until "baseurl:"
   Annual academic and free-and-open-source-software (FOSS) development workshop 
   on eventually-consistent (offline-first) peer-to-peer technologies.
