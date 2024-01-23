@@ -1,6 +1,6 @@
-# Meal Planning
+## Meal Planning
 
-## Meal Schedule
+### Meal Schedule
 
 | Meal \ Day           | Fri. Jan. 26th                  | Sat. Jan. 27th               | 
 | :------------------: | :---------------------------:   | :--------------------------: |
@@ -166,9 +166,10 @@ Vegetarian:
 
 Served with white or brown rice (60g / portion)
 
-# References
 
-## Recipes
+##  References
+
+### Recipes
 
 * [Enchilada Rice](https://sweetpeasandsaffron.com/instant-pot-enchilada-rice/)
 * [Tofu Tikka Massala](https://sweetpeasandsaffron.com/vegan-slow-cooker-tikka-masala/)
