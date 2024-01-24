@@ -24,22 +24,20 @@ The workshop is intended for 14 participants, 4 from the [Computer Networks Grou
 
 ### -> Invited Tutorials/Lectures (Friday January 26th Morning & Afternoon)
 
-We will have up to 6 introduction tutorials and lectures of ~1h on core topics
+We will have 4 introduction tutorials and lectures of 45-50 minutes on core topics
 of interest:
 
-  1. "Git Internals" by [Ali Ajorian](https://dmi.unibas.ch/en/persons/ajorian-ali/) [Ref: [Git Book v2, Git Internals Sections 10.1-10.3](https://git-scm.com/book/en/v2/Git-Internals-Plumbing-and-Porcelain)]
+  1. (Fri. 10h) "Fundamentals of Reliable Distributed Programming" by [Erick Lavoie](https://dmi.unibas.ch/en/persons/lavoie-erick)
+  2. (Fri. 11h) "Git Internals" by [Ali Ajorian](https://dmi.unibas.ch/en/persons/ajorian-ali/) [Ref: [Git Book v2, Git Internals Sections 10.1-10.3](https://git-scm.com/book/en/v2/Git-Internals-Plumbing-and-Porcelain)]
 
        ````This will be an interactive session in which you will be invited to follow along by running commands in your terminal.````
 
-  2. "Cryptographic Primitives" by [Osman Biçer](https://dmi.unibas.ch/en/persons/bicer-osman/)
-  3. "Fundamentals of Reliable Distributed Programming" by [Erick Lavoie](https://dmi.unibas.ch/en/persons/lavoie-erick)
-  4. "State-based Conflict-Free Replicated Datatypes (CRDTs)" by [Erick Lavoie](https://dmi.unibas.ch/en/persons/lavoie-erick)
-  5. *To be announced*
-  6. *To be announced*
+  3. (Fri. 14h) "Cryptographic Primitives" by [Osman Biçer](https://dmi.unibas.ch/en/persons/bicer-osman/)
+  4. (Fri. 15h) "State-based Conflict-Free Replicated Datatypes (CRDTs)" by [Erick Lavoie](https://dmi.unibas.ch/en/persons/lavoie-erick)
 
 These lectures are open to students and researchers of the Department of
-Mathematics and Computer Science at University of Basel. Participants are invited to 
-prepare in advance by reading the relevant reference material.
+Mathematics and Computer Science at University of Basel. Participants are
+invited to prepare in advance by reading the relevant reference material.
 
 
 ### -> Official Welcome (Saturday January 27th 9h-9h15)
