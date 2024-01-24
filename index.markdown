@@ -34,6 +34,7 @@ of interest:
 
   3. (Fri. 14h) "Cryptographic Primitives" by [Osman Biçer](https://dmi.unibas.ch/en/persons/bicer-osman/)
   4. (Fri. 15h) "State-based Conflict-Free Replicated Datatypes (CRDTs)" by [Erick Lavoie](https://dmi.unibas.ch/en/persons/lavoie-erick)
+  5. (Fri. 16h) "Software stacks for CRDTs" by Prof. Christian Tshudin
 
 These lectures are open to students and researchers of the Department of
 Mathematics and Computer Science at University of Basel. Participants are
