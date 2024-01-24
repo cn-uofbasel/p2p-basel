@@ -24,7 +24,7 @@ The workshop is intended for 14 participants, 4 from the [Computer Networks Grou
 
 ### -> Invited Tutorials/Lectures (Friday January 26th Morning & Afternoon)
 
-We will have 4 introduction tutorials and lectures of 45-50 minutes on core topics
+We will have 5 introduction tutorials and lectures of 45-50 minutes on core topics
 of interest:
 
   1. (Fri. 10h) "Fundamentals of Reliable Distributed Programming" by [Erick Lavoie](https://dmi.unibas.ch/en/persons/lavoie-erick)
