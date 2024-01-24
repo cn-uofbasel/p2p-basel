@@ -6,7 +6,7 @@
 | :------------------: | :---------------------------:   | :--------------------------: |
 | Breakfast (7h30-9h)  | *(~14)* Fruits/cereals/bread    | *(~14)* Fruits/cereals/bread |
 | Lunch     (12h-14h)  | *(~18)* Black beans stew        | *(~14)* Maafe                |
-| Supper    (18h-20h)  | *(~14)* Thai Curry w/ Wild Rice | *(~14)* Chili                |
+| Supper    (18h-20h)  | *(~14)* Thai Curry              | *(~14)* Chili                |
 
 | Meal \ Day           | Sun. Jan. 28th |
 | :------------------: | :------------: |
@@ -20,7 +20,7 @@ Note: Number of expected participants eating during that meal between parenthese
 
 * [Maafe](https://sweetpeasandsaffron.com/african-peanut-stew/)
 * [Easy Red Lentil Dal](https://sweetpeasandsaffron.com/lentil-dal-recipe/)
-* [Thai Curry Wild Rice](https://sweetpeasandsaffron.com/thai-slow-cooker-chicken-wild-rice-soup/)
+* [Thai Curry](https://sweetpeasandsaffron.com/thai-slow-cooker-chicken-wild-rice-soup/)
 * [Red Lentil Curry](https://sweetpeasandsaffron.com/slow-cooker-butternut-squash-lentil-curry/)
 
 ## Ingredients
