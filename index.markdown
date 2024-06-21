@@ -28,13 +28,13 @@ We will have 5 introduction tutorials and lectures of 45-50 minutes on core topi
 of interest:
 
   1. (Fri. 10h) "Fundamentals of Reliable Distributed Programming" by [Erick Lavoie](https://dmi.unibas.ch/en/persons/lavoie-erick)
-  2. (Fri. 11h) "Git Internals" by [Ali Ajorian](https://dmi.unibas.ch/en/persons/ajorian-ali/) [Ref: [Git Book v2, Git Internals Sections 10.1-10.3](https://git-scm.com/book/en/v2/Git-Internals-Plumbing-and-Porcelain)]
+  2. (Fri. 11h) "Git Internals" by [Ali Ajorian](https://dmi.unibas.ch/en/persons/ajorian-ali/) [Ref: [Git Book v2, Git Internals Sections 10.1-10.3](https://git-scm.com/book/en/v2/Git-Internals-Plumbing-and-Porcelain)] [(Video)](https://archive.org/details/p2p-basel-2024/20240126-Tutorial-02-Git_internals.mp4#)
 
        ````This will be an interactive session in which you will be invited to follow along by running commands in your terminal.````
 
-  3. (Fri. 14h) "Cryptographic Primitives" by [Osman Biçer](https://dmi.unibas.ch/en/persons/bicer-osman/)
-  4. (Fri. 15h) "State-based Conflict-Free Replicated Datatypes (CRDTs)" by [Erick Lavoie](https://dmi.unibas.ch/en/persons/lavoie-erick)
-  5. (Fri. 16h) "Software stacks for CRDTs" by Prof. Christian Tshudin
+  3. (Fri. 14h) "Cryptographic Primitives" by [Osman Biçer](https://dmi.unibas.ch/en/persons/bicer-osman/) 
+  4. (Fri. 15h) "State-based Conflict-Free Replicated Datatypes (CRDTs)" by [Erick Lavoie](https://dmi.unibas.ch/en/persons/lavoie-erick) [(Video)](https://archive.org/details/p2p-basel-2024/20240126-Tutorial-03-State_based_CRDTs.mp4)
+  5. (Fri. 16h) "Software stacks for CRDTs" by Prof. Christian Tshudin [(Video)](https://archive.org/details/p2p-basel-2024/20240126-Tutorial-04-Software_stacks_for_CRDTs.mp4)
 
 These lectures are open to students and researchers of the Department of
 Mathematics and Computer Science at University of Basel. Participants are
@@ -56,9 +56,14 @@ The talks are not intended for general marketing of your project: all participan
 
 **Diffusion**: You do not need to attend the workshop to see the talks. We will make them available publicly after the event, hopefully on Archive.org as for the 2023 edition (ex: [Sat. Jan. 28th, 2023](https://archive.org/details/p2p-basel-2023-day1), [Sun. Jan. 29th](https://archive.org/details/p2p-basel-2023-day2)).
 
-Current invited talks:
-  1. Members of the [Computer Networks Group](https://cn.dmi.unibas.ch/) [[GitHub]](https://github.com/cn-uofbasel) (4 slots)
-  2. To be announced (10 slots)
+Recorded talks:
+  1. Prof. Christian Tschudin, "State of Affairs: Decentralized Research at University of Basel" [(Video)](https://archive.org/details/p2p-basel-2024/20240127-Talk-01-Tschudin-Computer_Networks_Group.mp4)
+  2. Martin Schauzenbach, "Public Key Blinding" [(Video)](https://archive.org/details/p2p-basel-2024/20240127-Talk-02-Schanzenbach-Public_key_blinding.mp4) 
+  3. Aljoscha Meyer & Sam Gwilym, "Willow Protocol" [(Video)](https://archive.org/details/p2p-basel-2024/20240127-Talk-03-Aljoscha_Gwil-Willow.mp4)
+  4. Michael Toomim, "Braid", [(Video)](https://archive.org/details/p2p-basel-2024/20240128-Talk-01-Toomim-Braid.mp4)
+  5. Erick Lavoie, "Designing P2P Systems as Closed Knowledge Commons", [(Video)](https://archive.org/details/p2p-basel-2024/20240128-Talk-02-Lavoie-Closed_knowledge_commons.mp4)
+  6. Osman Bicer, "Oblivious Homomorphic Encryption", [(Video)](https://archive.org/details/p2p-basel-2024/20240128-Talk-03-Bicer-Oblivious_homomorphic_encryption.mp4)
+  7. Prof. Christian Tschudin & Jorg Ott, "Windowed CRDT" [(Video)](https://archive.org/details/p2p-basel-2024/20240128-Talk-04-Ott_Tschudin-Windowed_CRDTs.mp4)
 
 ### -> [Tinguely Museum](https://www.tinguely.ch/en.html) (Sunday January 28th 13h)
 
@@ -119,4 +124,5 @@ If you have an **academic** affiliation and will give a talk, the Computer Netwo
 ### Others
 
   * [Secure Scuttlebutt video talks](https://scuttlebutt.nz/docs/talks/)
+  * Talk recordings on Archive.org: https://archive.org/details/p2p-basel-2024
   * Previous editions: [2023](./2023)
