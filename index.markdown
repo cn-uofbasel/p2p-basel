@@ -124,5 +124,5 @@ If you have an **academic** affiliation and will give a talk, the Computer Netwo
 ### Others
 
   * [Secure Scuttlebutt video talks](https://scuttlebutt.nz/docs/talks/)
-  * Talk recordings on Archive.org: https://archive.org/details/p2p-basel-2024
+  * Talk recordings on Archive.org: [https://archive.org/details/p2p-basel-2024](https://archive.org/details/p2p-basel-2024)
   * Previous editions: [2023](./2023)
