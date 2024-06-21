@@ -54,7 +54,7 @@ The official opening of the workshop will be done on Saturday morning.
 
 The talks are not intended for general marketing of your project: all participants are already fully busy advancing their own project(s) and so they are unlikely to drop theirs to join yours. Marketing towards a general audience will be better served by other venues (blog posts, videos, talks in larger conferences, etc.).
 
-**Diffusion**: You do not need to attend the workshop to see the talks. We will make them available publicly after the event, hopefully on Archive.org as for the 2023 edition (ex: [Sat. Jan. 28th, 2023](https://archive.org/details/p2p-basel-2023-day1), [Sun. Jan. 29th](https://archive.org/details/p2p-basel-2023-day2)).
+**Diffusion**: You do not need to attend the workshop to see the talks. ~~We will make them available publicly after the event, hopefully on Archive.org as for the 2023 edition~~ (EDIT: Links have been added, see below!) (ex: [Sat. Jan. 28th, 2023](https://archive.org/details/p2p-basel-2023-day1), [Sun. Jan. 29th](https://archive.org/details/p2p-basel-2023-day2)).
 
 Recorded talks:
   1. Prof. Christian Tschudin, "State of Affairs: Decentralized Research at University of Basel" [(Video)](https://archive.org/details/p2p-basel-2024/20240127-Talk-01-Tschudin-Computer_Networks_Group.mp4)
