@@ -6,66 +6,108 @@ layout: home
 
 | [Schedule](#schedule-overview) | [Travel&Accom.](#travel-and-accommodations) | [Volunteer](#volunteering-and-self-organization) | [Register](#attendance-fees-and-registration) | [Contacts](#contacts) | [References](#references) |
 
-![banner](/banner-p2p-basel-2024.png)
+![banner](/banner-p2p-basel-2025.png)
 
-The aim of the P2P Basel workshop is to bring together researchers and software builders to share insights and collaborate towards the sound and sustainable development of efficient eventually-consistent (offline-first) peer-to-peer systems. Examples of related projects of interest are [Secure-Scuttlebutt](https://www.scuttlebutt.nz/), [DAT/Hypercore](https://docs.holepunch.to/), [Cabal](https://cabal.chat/), [Socket Supply co.](https://socketsupply.co/), [Earthstar](https://earthstar-project.org/), [Willow](https://willowprotocol.org/), [Nostr](https://nostr.com/), [Holochain](https://www.holochain.org/), [P2Panda](https://p2panda.org/), [GNUnet](https://www.gnunet.org/).
+The aim of the P2P Basel workshop is to bring together researchers and software builders to share insights and collaborate towards the sound and sustainable development of efficient eventually-consistent (offline-first) peer-to-peer systems. Examples of related projects of interest are [Secure-Scuttlebutt](https://www.scuttlebutt.nz/), [DAT/Hypercore](https://docs.holepunch.to/), [Cabal](https://cabal.chat/), [Socket Supply co.](https://socketsupply.co/), [Earthstar](https://earthstar-project.org/), [Willow](https://willowprotocol.org/), [Nostr](https://nostr.com/), [Holochain](https://www.holochain.org/), [P2Panda](https://p2panda.org/), [GNUnet](https://www.gnunet.org/), [NextGraph](https://nextgraph.org/). Other P2P projects that are based on stronger consistency models, such as [Mass Market](https://mass.market/) are also of interest.
 
-The workshop is intended for 14 participants, 4 from the [Computer Networks Group @ Unibasel](https://cn.dmi.unibas.ch/) and 10 invited external researchers and developers. The workshop is intentionally kept small to encourage deep technical discussions, foster strong collaborations between participants, and make the logistics easier to manage collaboratively.
+The workshop is intended for 16 participants, 4 from the [Computer Networks Group @ Unibasel](https://cn.dmi.unibas.ch/) and 12 invited external researchers and developers. The workshop is intentionally kept small to encourage deep technical discussions, foster strong collaborations between participants, and make the logistics easier to manage collaboratively. 
+
+We are already at full capacity.
 
 ## Schedule Overview
 
-|             |  Fri. Jan. 26           |  Sat. Jan. 27                      |  Sun. Jan. 28                    |
-| ----------- | :---------------------: | :--------------------------------: | :----------------------------:   |
-| **9h-12h**  | Tutorials/Lectures      | Official Welcome / Invited Talks   | Invited Talks                    |
-| **14h-18h** | Tutorials/Lectures      | *TBD*                              | *TBD*/Tinguely Museum (optional) |
-| **20h-...** | *TBD*                   | *TBD*                              | *TBD*                            |
+|             |  Fri. Jan. 31                                          |  Sat. Feb. 1                       |  Sun. Feb. 2                     |
+| ----------- | :---------------------:                                | :--------------------------------: | :----------------------------:   |
+| **8h-9h**   | *Breakfast + Lunch Prep.*                              | *Breakfast + Lunch Prep.*          | *Breakfast + Lunch Prep.*        |
+| **9h-10**   | Official Welcome                                       | Talks                              | Talks                            |
+| **10h-12h** | Tutorials/Lectures                                     | Talks                              | Talks                            |
+| **12h-14h** | *Lunch & Going Indie Roundtable + Dinner Preparation*  | *Lunch + Dinner Preparation*       | *Lunch + Dinner Preparation*     |
+| **14h-18h** | Tutorials/Lectures                                     | *TBD*                              | *TBD*                            |
+| **18h-20h** | *Supper*                                               | *Supper*                           | *Supper*                         |
+| **20h-...** | *TBD*                                                  | *TBD*                              | *TBD*                            |
 
 *TBD: To Be Decided by participants ([unconference style](https://en.wikipedia.org/wiki/Unconference))
 
-### -> Invited Tutorials/Lectures (Friday January 26th Morning & Afternoon)
+### -> Official Welcome (Friday January 31st 9h-10h)
 
-We will have 5 introduction tutorials and lectures of 45-50 minutes on core topics
-of interest:
+The official opening of the workshop will be done on Friday morning with a
+brief announcement from Erick, a roundtable to get to know each other, and a
+keynote talk by Prof. Christian Tschudin: "State of Affairs: Decentralized
+Research at University of Basel".
 
-  1. (Fri. 10h) "Fundamentals of Reliable Distributed Programming" by [Erick Lavoie](https://dmi.unibas.ch/en/persons/lavoie-erick)
-  2. (Fri. 11h) "Git Internals" by [Ali Ajorian](https://dmi.unibas.ch/en/persons/ajorian-ali/) [Ref: [Git Book v2, Git Internals Sections 10.1-10.3](https://git-scm.com/book/en/v2/Git-Internals-Plumbing-and-Porcelain)] [(Video)](https://archive.org/details/p2p-basel-2024/20240126-Tutorial-02-Git_internals.mp4#)
+### -> Tutorials/Lectures (Friday January 31st Morning & Afternoon)
 
-       ````This will be an interactive session in which you will be invited to follow along by running commands in your terminal.````
+Tutorials/lectures provide a presentation of fundamental concepts and skills
+that may help participants better understand the following talks and
+discussions. We have time for 5 introduction tutorials and lectures of 45-50
+minutes on core topics of interest. Already planned lectures are:
 
-  3. (Fri. 14h) "Cryptographic Primitives" by [Osman Biçer](https://dmi.unibas.ch/en/persons/bicer-osman/) 
-  4. (Fri. 15h) "State-based Conflict-Free Replicated Datatypes (CRDTs)" by [Erick Lavoie](https://dmi.unibas.ch/en/persons/lavoie-erick) [(Video)](https://archive.org/details/p2p-basel-2024/20240126-Tutorial-03-State_based_CRDTs.mp4)
-  5. (Fri. 16h) "Software stacks for CRDTs" by Prof. Christian Tshudin [(Video)](https://archive.org/details/p2p-basel-2024/20240126-Tutorial-04-Software_stacks_for_CRDTs.mp4)
+  1. (Fri. 10h) "" by ?? 
+  2. (Fri. 11h) "Fundamentals of Cryptography for (and by!) Non-Cryptographers" by [Ali Ajorian](https://dmi.unibas.ch/en/persons/ajorian-ali/) [Ref: [Introduction to Modern Cryptography](https://yehudalindell.com/introduction-to-modern-cryptography-3rd-edition/)] 
+  4. (Fri. 14h) "Proving the Convergence of State-based CRDTs & Application to 2P-BFT-Log" by [Erick Lavoie](https://dmi.unibas.ch/en/persons/lavoie-erick) [Ref: [2P-BFT-Log Paper](https://arxiv.org/abs/2307.08381)]
+  3. (Fri. 15h) "" by ?? 
+  5. (Fri. 16h) "" by ?? 
 
 These lectures are open to students and researchers of the Department of
 Mathematics and Computer Science at University of Basel. Participants are
 invited to prepare in advance by reading the relevant reference material.
 
+### -> Going Indie or Not: Round-table with Students on Non-Traditional Careers in FOSS and/or P2P! (Friday January 31st @ 12h30-13h30)
 
-### -> Official Welcome (Saturday January 27th 9h-9h15)
+Are you close to finishing a degree at University of Basel? Do you
+have an interest in contributing to free and open source software (P2P or not!)
+but wonder how that could possibly become a (paid) career? 
 
-The official opening of the workshop will be done on Saturday morning.
+Participants of P2P Basel will share their career experience of the last years.
+You will learn their academic and non-academic backgrounds, funding models they
+have experienced both as employees and independent developers, the highs and
+lows of being indie, and funding opportunities they have leveraged in Europe.
+Some of them could become your mentors in the future!
 
+Participants: 
+  * Andreas  ([P2Panda](https://p2panda.org/))
+  * ... and others!
 
-### -> Invited Talks (Saturday January 27th and Sunday January 28th Mornings)
+Funding sources discussed:
+  * [NLNet](https://nlnet.nl/)
+  * [NGI](https://ngi.eu/opencalls) (2025 is the last year before the program is discontinued)
 
-**Format**: Saturday and Sunday mornings will have 15-minutes talks, each followed by a question period of 5 minutes. There are 7 slots reserved on each day, enough for each participant to present. These slots are intended for structured presentations prepared in advance of the event. 
+We have up to 3 complementary meals we can graciously offer to Bachelor/Master students
+that register in advance, otherwise students should bring their own lunch.
 
-**Purpose**: The invited talks should present new insights that are likely to be useful to other participants in their own projects. These insights might come, for example, from having deeply reflected about fundamental problems, or found unexpected issues in deployments that you wished you had known earlier because they would have led to different design decisions. You are strongly encouraged, but not obliged, to publish those insights in citable academic papers (such as pre-prints on [Arxiv](https://arxiv.org/)) or blog posts on your project's website prior to your talk. If you do so, we will link to them next to your talk. 
+### -> Talks (Saturday February 1st and Sunday February 2nd Mornings)
 
-The talks are not intended for general marketing of your project: all participants are already fully busy advancing their own project(s) and so they are unlikely to drop theirs to join yours. Marketing towards a general audience will be better served by other venues (blog posts, videos, talks in larger conferences, etc.).
+**Format**: Saturday and Sunday mornings will have prepared talks, each with
+15-20 minutes of prepared content but with a generous time allowance of up to
+20 minutes for interactive questions and discussions with other participants.
+There are 4 slots reserved on each day.
 
-**Diffusion**: You do not need to attend the workshop to see the talks. ~~We will make them available publicly after the event, hopefully on Archive.org as for the 2023 edition~~ (EDIT: Links have been added, see below!) (ex: [Sat. Jan. 28th, 2023](https://archive.org/details/p2p-basel-2023-day1), [Sun. Jan. 29th](https://archive.org/details/p2p-basel-2023-day2)).
+**Purpose**: The invited talks should present new insights that are likely to
+be useful to other participants in their own projects. These insights might
+come, for example, from having deeply reflected about fundamental problems, or
+found unexpected issues in deployments that you wished you had known earlier
+because they would have led to different design decisions. You are strongly
+encouraged, but not obliged, to publish those insights in citable academic
+papers (such as pre-prints on [Arxiv](https://arxiv.org/)) or blog posts on
+your project's website prior to your talk. If you do so, we will link to them
+next to your talk. 
 
-Recorded talks:
-  1. Prof. Christian Tschudin, "State of Affairs: Decentralized Research at University of Basel" [(Video)](https://archive.org/details/p2p-basel-2024/20240127-Talk-01-Tschudin-Computer_Networks_Group.mp4)
-  2. Martin Schauzenbach, "Public Key Blinding" [(Video)](https://archive.org/details/p2p-basel-2024/20240127-Talk-02-Schanzenbach-Public_key_blinding.mp4) 
-  3. Aljoscha Meyer & Sam Gwilym, "Willow Protocol" [(Video)](https://archive.org/details/p2p-basel-2024/20240127-Talk-03-Aljoscha_Gwil-Willow.mp4)
-  4. Michael Toomim, "Braid", [(Video)](https://archive.org/details/p2p-basel-2024/20240128-Talk-01-Toomim-Braid.mp4)
-  5. Erick Lavoie, "Designing P2P Systems as Closed Knowledge Commons", [(Video)](https://archive.org/details/p2p-basel-2024/20240128-Talk-02-Lavoie-Closed_knowledge_commons.mp4)
-  6. Osman Bicer, "Oblivious Homomorphic Encryption", [(Video)](https://archive.org/details/p2p-basel-2024/20240128-Talk-03-Bicer-Oblivious_homomorphic_encryption.mp4)
-  7. Prof. Christian Tschudin & Jorg Ott, "Windowed CRDT" [(Video)](https://archive.org/details/p2p-basel-2024/20240128-Talk-04-Ott_Tschudin-Windowed_CRDTs.mp4)
+The talks are not intended for general marketing of your project: all
+participants are already fully busy advancing their own project(s) and so they
+are unlikely to drop theirs to join yours. Marketing towards a general audience
+will be better served by other venues (blog posts, videos, talks in larger
+conferences, etc.).
 
-### -> [Tinguely Museum](https://www.tinguely.ch/en.html) (Sunday January 28th 13h)
+**Diffusion**: You do not need to attend the workshop to see the talks. We
+will make them available publicly after the event on Archive.org. See references
+below for links to talks from previous years.
+
+Planned talks so far:
+  1. Ali Ajorian, "Obfuscation as Instruction Decorrelation",  [Arxiv Pre-print](https://arxiv.org/abs/2411.05570)
+  2. Aljoscha Meyer, "Verifying Arbitrary Slices of Content-Addressed Strings" [Pre-print](https://worm-blossom.github.io/bab/)
+  3. Niko Bonnieure, "Encrypted DAG of Operations" and/or "Causal Reliable Broadcast"
+  4. Keks, "Using MLS in Less Centralized Settings"
+
 
 ## Travel and Accommodations
 
@@ -75,9 +117,16 @@ AirBnB.
 
 ## Volunteering and Self-Organization
 
-Half of the program will be done in a participant-driven [unconference style](https://en.wikipedia.org/wiki/Unconference). You can already think about sessions you'd like to host, discussions you'd like to initiate, etc.
+Half of the program will be done in a participant-driven [unconference
+style](https://en.wikipedia.org/wiki/Unconference). You can already think about
+sessions you'd like to host, discussions you'd like to initiate, etc.
 
-To keep registration fees low, we will collectively cook and clean for ourselves during the event. All participants are expected to contribute: aprons and kitchenware are provided. Meals will be organized so that they do not require more than 30-60 minutes of preparation/cleaning from volunteers during the meal breaks, and will cook (if needed) in automated cookware during the sessions.
+To keep registration fees low, we will collectively cook and clean for
+ourselves during the event. All participants are expected to contribute: aprons
+and kitchenware are provided. Meals will be organized so that they do not
+require more than 30-60 minutes of preparation/cleaning from volunteers during
+the meal breaks, and will cook (if needed) in automated cookware during the
+sessions.
 
 ## Registration and Attendance Fees
 
@@ -89,13 +138,16 @@ ways: publish your insights in pre-print venues, such as
 contribute to the technical development of eventually-consistent peer-to-peer
 systems.
 
-We ask for 60 CHF / 64 EUR for attendance, regardless of when
+We ask for 75 CHF / 80 EUR for attendance, regardless of when
 you arrive or leave, to cover meal costs including breakfast,
-lunch, and dinner. 
+lunch, and dinner.   
 
 ### Sponsoring
 
-If you have an **academic** affiliation and will give a talk, the Computer Networks Group can access university funds to help cover travel and accommodation. Contact [Christian Tschudin](mailto:christian.tschudin@unibas.ch).
+If you have an **academic** affiliation and will give a talk, the Computer
+Networks Group can access university funds to help cover travel and
+accommodation. Contact [Christian
+Tschudin](mailto:christian.tschudin@unibas.ch).
 
 ## Contacts
 
@@ -125,4 +177,4 @@ If you have an **academic** affiliation and will give a talk, the Computer Netwo
 
   * [Secure Scuttlebutt video talks](https://scuttlebutt.nz/docs/talks/)
   * Talk recordings on Archive.org: [https://archive.org/details/p2p-basel-2024](https://archive.org/details/p2p-basel-2024)
-  * Previous editions: [2023](./2023)
+  * Previous editions: [2024](./2024), [2023](./2023)
