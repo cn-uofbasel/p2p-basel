@@ -52,7 +52,7 @@ These lectures are open to students and researchers of the Department of
 Mathematics and Computer Science at University of Basel. Participants are
 invited to prepare in advance by reading the relevant reference material.
 
-### -> Going Indie or Not: Round-table with Students on Non-Traditional Careers in FOSS and/or P2P! (Friday January 31st @ 12h30-13h30)
+### -> Going Indie or Not: Round-table with Students on Non-Traditional Careers in FOSS and/or P2P! (Friday January 31st @ 18h30-19h30)
 
 Are you close to finishing a degree at University of Basel? Do you
 have an interest in contributing to free and open source software (P2P or not!)
@@ -73,7 +73,7 @@ Funding sources discussed:
   * [NGI](https://ngi.eu/opencalls) (2025 is the last year before the program is discontinued)
 
 We have up to 3 complementary meals we can graciously offer to Bachelor/Master students
-that register in advance, otherwise students should bring their own lunch.
+that register in advance, otherwise students should bring their own meal.
 
 ### -> Talks (Saturday February 1st and Sunday February 2nd Mornings)
 
