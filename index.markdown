@@ -4,7 +4,7 @@
 layout: home
 ---
 
-| [Schedule](#schedule-overview) | [Travel&Accom.](#travel-and-accommodations) | [Volunteer](#volunteering-and-self-organization) | [Register](#attendance-fees-and-registration) | [Contacts](#contacts) | [References](#references) |
+| [Schedule](#schedule-overview) | [Travel&Accom.](#travel-and-accommodations) | [Volunteer](#volunteering-and-self-organization) | [Register](#registration-and-attendance-fees) | [Contacts](#contacts) | [References](#references) |
 
 ![banner](/banner-p2p-basel-2025.png)
 
