@@ -44,6 +44,7 @@
        [ ] Design
        [ ] Vote on amounts required
        [ ] Send to [Stitch Bienne](https://stitchbienne.ch/fr/home) for fabrication, at least 2 weeks before the event
+    [ ] Bring a portable iron for applying patches to aprons during the event
 
 ### Chores
 
