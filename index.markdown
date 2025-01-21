@@ -42,10 +42,10 @@ that may help participants better understand the following talks and
 discussions. We have time for 5 introduction tutorials and lectures of 45-50
 minutes on core topics of interest. Already planned lectures are:
 
-  1. (Fri. 10h) "" by ?? 
-  2. (Fri. 11h) "Fundamentals of Cryptography for (and by!) Non-Cryptographers" by [Ali Ajorian](https://dmi.unibas.ch/en/persons/ajorian-ali/) [Ref: [Introduction to Modern Cryptography](https://yehudalindell.com/introduction-to-modern-cryptography-3rd-edition/)] 
-  4. (Fri. 14h) "Proving the Convergence of State-based CRDTs & Application to 2P-BFT-Log" by [Erick Lavoie](https://dmi.unibas.ch/en/persons/lavoie-erick) [Ref: [2P-BFT-Log Paper](https://arxiv.org/abs/2307.08381)]
-  3. (Fri. 15h) "" by ?? 
+  1. (Fri. 10h) "Fundamentals of Cryptography for (and by!) Non-Cryptographers" by [Ali Ajorian](https://dmi.unibas.ch/en/persons/ajorian-ali/) [Ref: [Introduction to Modern Cryptography](https://yehudalindell.com/introduction-to-modern-cryptography-3rd-edition/)] 
+  2. (Fri. 11h) "Yao's Garbled Circuits" by Osman Bicer [Ref: [Original Paper](https://research.cs.wisc.edu/areas/sec/yao1982-ocr.pdf)]
+  3. (Fri. 14h) "Formal Verification Tools for Protocols and CRDTs: Promela and VeriFx" by Christian Tschudin [Refs: [SpinRoot](https://spinroot.com/) [VeriFx](https://github.com/verifx-prover/verifx)]]
+  4. (Fri. 15h) "(Manually) Proving the Convergence of State-based CRDTs & Application to 2P-BFT-Log" by [Erick Lavoie](https://dmi.unibas.ch/en/persons/lavoie-erick) [Ref: [2P-BFT-Log Paper](https://arxiv.org/abs/2307.08381)]
   5. (Fri. 16h) "" by ?? 
 
 These lectures are open to students and researchers of the Department of
@@ -107,6 +107,8 @@ Planned talks so far:
   2. Aljoscha Meyer, "Verifying Arbitrary Slices of Content-Addressed Strings" [Pre-print](https://worm-blossom.github.io/bab/)
   3. Niko Bonnieure, "Encrypted DAG of Operations" and/or "Causal Reliable Broadcast"
   4. Keks, "Using MLS in Less Centralized Settings"
+  5. Osman Bicer, "Improvements to Garbled Circuits"
+  6. Christian Tschudin, "Latest tinySSB experiments: transient feed acquaintance, distributed app store and bubbles."
 
 
 ## Travel and Accommodations
