@@ -5,8 +5,8 @@
 | Meal \ Day           | Fri. Jan. 26th                  | Sat. Jan. 27th               | 
 | :------------------: | :---------------------------:   | :--------------------------: |
 | Breakfast (7h30-9h)  | *(~14)* Fruits/cereals/bread    | *(~15)* Fruits/cereals/bread |
-| Lunch     (12h-14h)  | *(~18)* Black beans stew        | *(~15)* Maafe                |
-| Supper    (18h-20h)  | *(~15)* Thai Curry              | *(~15)* Chili                |
+| Lunch     (12h-14h)  | *(~15)* Black beans stew        | *(~15)* Maafe                |
+| Supper    (18h-20h)  | *(~18)* Thai Curry              | *(~15)* Chili                |
 
 | Meal \ Day           | Sun. Jan. 28th |
 | :------------------: | :------------: |
