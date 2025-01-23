@@ -23,7 +23,7 @@ We are already at full capacity.
 | **10h-12h** | Tutorials/Lectures                                     | Talks                              | Talks                            |
 | **12h-14h** | *Lunch + Dinner Preparation*                           | *Lunch + Dinner Preparation*       | *Lunch + Dinner Preparation*     |
 | **14h-18h** | Tutorials/Lectures                                     | *TBD*                              | *TBD*                            |
-| **18h-20h** | *Supper & Going Indie Roundtable *                     | *Supper*                           | *Supper*                         |
+| **18h-20h** | *Supper* & *Going Indie Roundtable*                    | *Supper*                           | *Supper*                         |
 | **20h-...** | *TBD*                                                  | *TBD*                              | *TBD*                            |
 
 *TBD: To Be Decided by participants ([unconference style](https://en.wikipedia.org/wiki/Unconference))
