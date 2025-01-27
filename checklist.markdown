@@ -58,6 +58,8 @@
 
 ### IT
     
+    [ ] Multi-socket adapters, Europlug to Swiss
+    [ ] Multi-socket adapters, Swiss->Swiss for cookware
     [ ] Reserve external camera + tripod
     [ ] Record talks/lectures (Talks are recorded using the local record function of Zoom)
     [ ] Upload talks/lectures to Archive.org during/after the event (ex: https://archive.org/details/p2p-basel-2024)
