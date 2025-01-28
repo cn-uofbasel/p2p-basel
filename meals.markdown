@@ -4,15 +4,15 @@
 
 | Meal \ Day           | Fri. Jan. 26th                  | Sat. Jan. 27th               | 
 | :------------------: | :---------------------------:   | :--------------------------: |
-| Breakfast (7h30-9h)  | *(~14)* Fruits/cereals/bread    | *(~15)* Fruits/cereals/bread |
-| Lunch     (12h-14h)  | *(~15)* Black beans stew        | *(~15)* Maafe                |
-| Supper    (18h-20h)  | *(~18)* Thai Curry              | *(~15)* Chili                |
+| Breakfast (7h30-9h)  | *(~13)* Fruits/cereals/bread    | *(~14)* Fruits/cereals/bread |
+| Lunch     (12h-14h)  | *(~14)* Black beans stew        | *(~14)* Maafe                |
+| Supper    (18h-20h)  | *(~18)* Thai Curry              | *(~14)* Chili                |
 
 | Meal \ Day           | Sun. Jan. 28th |
 | :------------------: | :------------: |
-| Breakfast (7h30-9h)  | *(~16)* Fruits/cereals/bread | 
-| Lunch     (12h-14h)  | *(~16)* Quinoa salad         |
-| Supper    (18h-20h)  | *(~15)* Red lentils dahl     |
+| Breakfast (7h30-9h)  | *(~15)* Fruits/cereals/bread | 
+| Lunch     (12h-14h)  | *(~15)* Quinoa salad         |
+| Supper    (18h-20h)  | *(~14)* Red lentils dahl     |
  
 Note: Number of expected participants eating during that meal between parentheses. 
 
