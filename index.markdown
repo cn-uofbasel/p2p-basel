@@ -20,7 +20,7 @@ We are already at full capacity.
 | ----------- | :---------------------:                                | :--------------------------------: | :----------------------------:   |
 | **8h-9h**   | *Breakfast + Lunch Prep.*                              | *Breakfast + Lunch Prep.*          | *Breakfast + Lunch Prep.*        |
 | **9h-10**   | Official Welcome                                       | Talks                              | Talks                            |
-| **10h-12h** | Tutorials/Lectures                                     | Talks                              | Talks                            |
+| **10h-12h** | Tutorials/Lectures                                     | Talks + Code-based Crypto Tutorial | Talks                            |
 | **12h-14h** | *Lunch + Dinner Preparation*                           | *Lunch + Dinner Preparation*       | *Lunch + Dinner Preparation*     |
 | **14h-18h** | Tutorials/Lectures                                     | *TBD*                              | *TBD*                            |
 | **18h-20h** | *Supper* & *Going Indie Roundtable*                    | *Supper*                           | *Supper*                         |
@@ -39,7 +39,7 @@ brief announcement from Erick, a roundtable to get to know each other, and a
 keynote talk by Prof. Christian Tschudin: "State of Affairs: Decentralized
 Research at University of Basel".
 
-### -> Tutorials/Lectures (Friday January 31st Morning & Afternoon)
+### -> Tutorials/Lectures (Friday January 31st Morning & Afternoon + Saturday February 1st)
 
 Tutorials/lectures provide a presentation of fundamental concepts and skills
 that may help participants better understand the following talks and
@@ -51,6 +51,7 @@ minutes on core topics of interest. Already planned lectures are:
   3. (Fri. 14h) "Formal Verification Tools for Protocols and CRDTs: Promela and VeriFx" by Christian Tschudin [Refs: [SpinRoot](https://spinroot.com/) [VeriFx](https://github.com/verifx-prover/verifx)]]
   4. (Fri. 15h) "(Manually) Proving the Convergence of State-based CRDTs & Application to 2P-BFT-Log" by [Erick Lavoie](https://dmi.unibas.ch/en/persons/lavoie-erick) [Ref: [2P-BFT-Log Paper](https://arxiv.org/abs/2307.08381)]
   5. (Fri. 16h) "" by ?? 
+  7. (Sat. 11h-12h) Prof. Joachim Rosenthaler, "Code-based systems in the Context of Post-Quantum Cryptography"
 
 These lectures are open to students and researchers of the Department of
 Mathematics and Computer Science at University of Basel. Participants are
@@ -112,7 +113,7 @@ Planned talks so far:
   3. Niko Bonnieure, "Encrypted DAG of Operations" and/or "Causal Reliable Broadcast"
   4. Keks, "Using MLS in Less Centralized Settings"
   5. Osman Bicer, "Improvements to Garbled Circuits"
-  6. Christian Tschudin, "Latest tinySSB experiments: transient feed acquaintance, distributed app store and bubbles."
+  6. Prof. Christian Tschudin, "Latest tinySSB experiments: transient feed acquaintance, distributed app store and bubbles."
 
 
 ## Travel and Accommodations
