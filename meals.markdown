@@ -33,6 +33,7 @@ Note: Number of expected participants eating during that meal between parenthese
   * Muesli cereals (500g / day)
   * Almond milk (1L /day)
   * Oat (500g / day) 
+  * "Real" milk (for Aljoscha) 1L
 
 ### Black Bean Stew
 
