@@ -42,8 +42,8 @@ Note: Number of expected participants eating during that meal between parenthese
   * Bay leaves (1 / 4 portions)
   * Salt
   * Pepper
-  * Black beans (60g / portion)
-  * Brown rice (60g / portion)
+  * Black beans (80g / portion)
+  * Brown rice (80g / portion)
   * Orange (1/4 per portion)
   * Toasted manioc flour - Farofa (10g / portion)
 
@@ -70,7 +70,7 @@ Meat:
 Vegetarian:
   * Soya sauce (10 ml/portionn) (1/2 tablespoon)
   * Vegetable broth (125ml / portion)
-  * Chickpeas (60g / portion)
+  * Chickpeas (80g / portion)
 
 Meat:
   * Fish sauce (10 ml/portion) (1/2 tablespoon)

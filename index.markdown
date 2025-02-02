@@ -112,7 +112,7 @@ Planned talks so far:
   2. Aljoscha Meyer, "Verifying Arbitrary Slices of Content-Addressed Strings" [Pre-print](https://worm-blossom.github.io/bab/)
   3. Niko Bonnieure, "Encrypted DAG of Operations" and/or "Causal Reliable Broadcast"
   4. Keks, "Using MLS in Less Centralized Settings"
-  5. Osman Bicer, "Improvements to Garbled Circuits"
+  5. Osman Bicer, "Improvements to Garbled Circuits" [Arxiv Pre-print](https://arxiv.org/abs/2501.18387)
   6. Prof. Christian Tschudin, "Latest tinySSB experiments: transient feed acquaintance, distributed app store and bubbles."
 
 
