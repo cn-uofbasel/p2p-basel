@@ -23,6 +23,20 @@ Note: Number of expected participants eating during that meal between parenthese
 * [Thai Curry](https://sweetpeasandsaffron.com/thai-slow-cooker-chicken-wild-rice-soup/)
 * [Red Lentil Curry](https://sweetpeasandsaffron.com/slow-cooker-butternut-squash-lentil-curry/)
 
+## Minimally-sticky Rice in Industrial Rice Cooker
+
+Courtesy of [cblgh](https://www.cblgh.org).
+
+Steps:
+* Soak rice for 30-60 min.
+* Throw soaking water away (additional benefit: lowers arsenic content)
+* Add a thin film of olive oil at the bottom of the pot
+* Add 2 volume of water per volume of rice 
+
+Pro tip: packets of 1kg of rice from Coop typically hold 2 bowls of rice,
+therefore 4 bowls of water per packet is what you are aiming for. Calibrate
+according to the bowls available.
+
 ## Ingredients
 
 ### Breakfasts
