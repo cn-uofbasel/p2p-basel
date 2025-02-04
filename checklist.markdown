@@ -3,7 +3,7 @@
 
 ### Invitees
 
-    [ ] Create a new private Signal group for that edition
+    [ ] Create a new private group for that edition
     [ ] Invite participants
     [ ] Create invitation letters for visas/academic reimbursements
     [ ] Establish the number of new participants for swag
@@ -37,7 +37,7 @@
 
 ### Swag
 
-    [ ] Contact Stitch Bienne to establish availabilities (December)
+    [ ] Contact Stitch Bienne to establish availabilities 
     [ ] Order aprons for new participants (Current supplier on [Galaxus](https://www.galaxus.ch/fr/s14/product/westford-mill-tablier-en-coton-adulte-taille-unique-tablier-22568003?supplier=6238584))
     [ ] Deliver aprons to Stitch Bienne
     [ ] Badges/Patches
