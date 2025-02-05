@@ -60,7 +60,7 @@
     
     [ ] Multi-socket adapters, Europlug to Swiss
     [ ] Multi-socket adapters, Swiss->Swiss for cookware
-    [ ] Reserve external camera + tripod
+    [ ] Reserve external camera + tripod (https://unibas.leihs.app/)
     [ ] Record talks/lectures (Talks are recorded using the local record function of Zoom)
 
 ### Outreach
