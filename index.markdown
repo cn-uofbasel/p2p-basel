@@ -16,14 +16,13 @@ We are already at full capacity.
 
 ## Schedule Overview
 
-|             |  Fri. Jan. 31                                          |  Sat. Feb. 1                       |  Sun. Feb. 2                     |
+|             |  Fri. Jan. 23                                          |  Sat. Jan. 24                      |  Sun. Jan. 25                     |
 | ----------- | :---------------------:                                | :--------------------------------: | :----------------------------:   |
 | **8h-9h**   | *Breakfast + Lunch Prep.*                              | *Breakfast + Lunch Prep.*          | *Breakfast + Lunch Prep.*        |
-| **9h-10**   | Official Welcome                                       | Talks                              | Talks                            |
-| **10h-12h** | Tutorials/Lectures                                     | Talks + Code-based Crypto Tutorial | Talks                            |
+| **9h-12h** | Official Welcome + Tutorials/Lectures + Student Projects| Mature Insights + Early Seeds Talks| Mature Insights Talks                            |
 | **12h-14h** | *Lunch + Dinner Preparation*                           | *Lunch + Dinner Preparation*       | *Lunch + Dinner Preparation*     |
-| **14h-18h** | Tutorials/Lectures                                     | *TBD*                              | *TBD*                            |
-| **18h-20h** | *Supper* & *Going Indie Roundtable*                    | *Supper*                           | *Supper*                         |
+| **14h-18h** | Tutorials/Lectures + Student Projects                  | *TBD*                              | *TBD*                            |
+| **18h-20h** | *Supper*                                               | *Supper*                           | *Supper*                         |
 | **20h-...** | *TBD* [(recommended places)](./recommendations.html)   | *TBD*                              | *TBD*                            |
 
 *TBD: To Be Decided by participants ([unconference style](https://en.wikipedia.org/wiki/Unconference))
@@ -32,62 +31,50 @@ We are already at full capacity.
 
 For those arriving early, you may look at our [recommended places](./recommendations.html) for eating and socializing.
 
-### -> Official Welcome (Friday January 31st 9h-10h)
+### -> Official Welcome (Friday January 23rd 9h-10h)
 
 The official opening of the workshop will be done on Friday morning with a
-brief announcement from Erick, a roundtable to get to know each other, and a
-keynote talk by Prof. Christian Tschudin: "State of Affairs: Decentralized
-Research at University of Basel".
+brief announcement from Erick, a roundtable to get to know each other, 
+and planning for sharing cooking and cleaning chores.
 
-### -> Tutorials/Lectures (Friday January 31st Morning & Afternoon + Saturday February 1st)
+### -> Tutorials/Lectures (Friday January 23rd Morning & Afternoon)
 
 Tutorials/lectures provide a presentation of fundamental concepts and skills
 that may help participants better understand the following talks and
 discussions. We have time for 5 introduction tutorials and lectures of 45-50
 minutes on core topics of interest. Already planned lectures are:
 
-  1. (Fri. 10h) "Fundamentals of Cryptography for (and by!) Non-Cryptographers" by [Ali Ajorian](https://dmi.unibas.ch/en/persons/ajorian-ali/) [Ref: [Introduction to Modern Cryptography](https://yehudalindell.com/introduction-to-modern-cryptography-3rd-edition/)] 
-  2. (Fri. 11h) "Yao's Garbled Circuits" by Osman Bicer [Ref: [Original Paper](https://research.cs.wisc.edu/areas/sec/yao1982-ocr.pdf)]
-  3. (Fri. 14h) "Formal Verification Tools for Protocols and CRDTs: Promela and VeriFx" by Christian Tschudin [Refs: [SpinRoot](https://spinroot.com/) [VeriFx](https://github.com/verifx-prover/verifx)]]
-  4. (Fri. 15h) "(Manually) Proving the Convergence of State-based CRDTs & Application to 2P-BFT-Log" by [Erick Lavoie](https://dmi.unibas.ch/en/persons/lavoie-erick) [Ref: [2P-BFT-Log Paper](https://arxiv.org/abs/2307.08381)]
-  5. (Fri. 16h) "" by ?? 
-  7. (Sat. 11h-12h) Prof. Joachim Rosenthaler, "Code-based systems in the Context of Post-Quantum Cryptography"
+  1. (Fri. ??) ?? by [Ali Ajorian](https://dmi.unibas.ch/en/persons/ajorian-ali/)  
+  2. (Fri. ??) ?? by [Osman Bicer](https://cn.dmi.unibas.ch/en/people/dr-osman-bicer/)   
+  3. (Fri. ??) ?? by [Christian Tschudin](https://dmi.unibas.ch/en/persons/christian-tschudin/) 
+  4. (Fri. ??) ?? by [Erick Lavoie](https://dmi.unibas.ch/en/persons/lavoie-erick)   
+  5. (Fri. ??) ?? by ?? 
 
 These lectures are open to students and researchers of the Department of
 Mathematics and Computer Science at University of Basel. Participants are
 invited to prepare in advance by reading the relevant reference material.
 
-### -> Going Indie or Not: Round-table with Students on Non-Traditional Careers in FOSS and/or P2P! (Friday January 31st @ 18h30-19h30)
+### -> Student Project Presentations (Friday January 23rd Morning & Afternoon)
 
-Are you close to finishing a degree at University of Basel? Do you
-have an interest in contributing to free and open source software (P2P or not!)
-but wonder how that could possibly become a (paid) career? 
+Some of the students having successfully completed a related Bachelor or Master
+project/thesis in the Computer Networks Group will present their work, in 25
+minutes. The following presentations have already been planned:
 
-Participants of P2P Basel will share their career experience of the last years.
-You will learn their academic and non-academic backgrounds, funding models they
-have experienced both as employees and independent developers, the highs and
-lows of being indie, and funding opportunities they have leveraged in Europe.
-Some of them could become your mentors in the future!
+  1. (Fri. ??) "Late-Binding between Groups and Permissions based on Trust in Offline-First System" by Paul Tröger  
+  2. (Fri. ??) "Gachix: A binary cache for Nix over Git" by Ephraim Siegfried [[pdf]](https://cn.dmi.unibas.ch/fileadmin/user_upload/redesign-cn-dmi/pubs/theses/bachelor/Siegfried-Gachix-Nix-Bin-Cache-Over-Git.pdf) [[source code]](https://github.com/EphraimSiegfried/gachix)
+  3. (Fri. ??) "P2P e-voting Protocol" by Martin Chikov
+ 
+These presentations are open to students and researchers of the Department of
+Mathematics and Computer Science at University of Basel. Participants are
+invited to prepare in advance by reading the referenced reports.
 
-Participants: 
-  * Andreas  ([P2Panda](https://p2panda.org/))
-  * ... and others!
+### -> Mature Insights Talks (Saturday January 24th and Sunday January 25th Mornings)
 
-Funding sources discussed:
-  * [NLNet](https://nlnet.nl/)
-  * [NGI](https://ngi.eu/opencalls) (2025 is the last year before the program is discontinued)
+**Format**: 15-20 minutes of prepared content but with a generous time
+allowance of up to 20 minutes for interactive questions and discussions with
+other participants.
 
-We have up to 3 complementary meals we can graciously offer to Bachelor/Master students
-that register in advance, otherwise students should bring their own meal.
-
-### -> Talks (Saturday February 1st and Sunday February 2nd Mornings)
-
-**Format**: Saturday and Sunday mornings will have prepared talks, each with
-15-20 minutes of prepared content but with a generous time allowance of up to
-20 minutes for interactive questions and discussions with other participants.
-There are 4 slots reserved on each day.
-
-**Purpose**: The invited talks should present new insights that are likely to
+**Purpose**: The talks should present new insights that are likely to
 be useful to other participants in their own projects. These insights might
 come, for example, from having deeply reflected about fundamental problems, or
 found unexpected issues in deployments that you wished you had known earlier
@@ -103,17 +90,19 @@ are unlikely to drop theirs to join yours. Marketing towards a general audience
 will be better served by other venues (blog posts, videos, talks in larger
 conferences, etc.).
 
-**Diffusion**: You do not need to attend the workshop to see the talks. We
-will make them available publicly after the event on Archive.org. See references
-below for links to talks from previous years.
+Planned talks so far:
+  1. ??
+
+### -> Early Seeds Talks (Saturday January 24th Late Morning)
+
+**Format**: 5-10 minutes of prepared content with no question.
+
+**Purpose**: Early seeds talks should aim to provide an interesting perspective
+or insights that have not been validated already, to stimulate interesting
+discussions and draw attention to potential topics for the unconference part.
 
 Planned talks so far:
-  1. Ali Ajorian, "Obfuscation as Instruction Decorrelation",  [Arxiv Pre-print](https://arxiv.org/abs/2411.05570)
-  2. Aljoscha Meyer, "Verifying Arbitrary Slices of Content-Addressed Strings" [Pre-print](https://worm-blossom.github.io/bab/)
-  3. Niko Bonnieure, "Encrypted DAG of Operations" and/or "Causal Reliable Broadcast"
-  4. Keks, "Using MLS in Less Centralized Settings"
-  5. Osman Bicer, "Improvements to Garbled Circuits" [Arxiv Pre-print](https://arxiv.org/abs/2501.18387)
-  6. Prof. Christian Tschudin, "Latest tinySSB experiments: transient feed acquaintance, distributed app store and bubbles."
+  1. ??
 
 
 ## Travel and Accommodations
@@ -183,6 +172,7 @@ Tschudin](mailto:christian.tschudin@unibas.ch).
 ### Others
 
   * [Secure Scuttlebutt video talks](https://scuttlebutt.nz/docs/talks/)
+  * Introduction to Cryptography for Non-cryptographers, by Ali Ajorian (P2P Basel 2025) [[Youtube]](https://www.youtube.com/watch?v=lHpHcnYg8aI) 
   * Talk recordings on Archive.org: [https://archive.org/details/p2p-basel-2024](https://archive.org/details/p2p-basel-2024)
-  * Previous editions: [2024](./2024), [2023](./2023)
+  * Previous editions: [2025](./2025), [2024](./2024), [2023](./2023)
   * Archived projects: [Socket Supply](https://web.archive.org/web/20241117112630/https://socketsupply.co/)
