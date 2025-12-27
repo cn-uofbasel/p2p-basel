@@ -6,9 +6,9 @@ layout: home
 
 | [Schedule](#schedule-overview) | [Travel&Accom.](#travel-and-accommodations) | [Volunteer](#volunteering-and-self-organization) | [Register](#registration-and-attendance-fees) | [Contacts](#contacts) | [References](#references) |
 
-![banner](/banner-p2p-basel-2026.png)
+![banner](/banner-p2p-basel-2025.png)
 
-The aim of the P2P Basel workshop is to bring together researchers and software builders to share insights and collaborate towards the sound and sustainable development of efficient eventually-consistent (offline-first) peer-to-peer systems. Examples of related projects of interest are [Secure-Scuttlebutt](https://www.scuttlebutt.nz/), [DAT/Hypercore](https://docs.holepunch.to/), [Cabal](https://cabal.chat/), [Earthstar](https://earthstar-project.org/), [Willow](https://willowprotocol.org/), [Nostr](https://nostr.com/), [Holochain](https://www.holochain.org/), [P2Panda](https://p2panda.org/), [GNUnet](https://www.gnunet.org/), [NextGraph](https://nextgraph.org/), [Qaul](https://www.qaul.net/), [Pijul](https://pijul.org/), [Iroh](https://www.iroh.computer/). 
+The aim of the P2P Basel workshop is to bring together researchers and software builders to share insights and collaborate towards the sound and sustainable development of efficient eventually-consistent (offline-first) peer-to-peer systems. Examples of related projects of interest are [Secure-Scuttlebutt](https://www.scuttlebutt.nz/), [DAT/Hypercore](https://docs.holepunch.to/), [Cabal](https://cabal.chat/), [Socket Supply co.](https://socketsupply.co/), [Earthstar](https://earthstar-project.org/), [Willow](https://willowprotocol.org/), [Nostr](https://nostr.com/), [Holochain](https://www.holochain.org/), [P2Panda](https://p2panda.org/), [GNUnet](https://www.gnunet.org/), [NextGraph](https://nextgraph.org/). Other P2P projects that are based on stronger consistency models, such as [Mass Market](https://mass.market/) are also of interest.
 
 The workshop is intended for 16 participants, 4 from the [Computer Networks Group @ Unibasel](https://cn.dmi.unibas.ch/) and 12 invited external researchers and developers. The workshop is intentionally kept small to encourage deep technical discussions, foster strong collaborations between participants, and make the logistics easier to manage collaboratively. 
 
@@ -185,4 +185,3 @@ Tschudin](mailto:christian.tschudin@unibas.ch).
   * [Secure Scuttlebutt video talks](https://scuttlebutt.nz/docs/talks/)
   * Talk recordings on Archive.org: [https://archive.org/details/p2p-basel-2024](https://archive.org/details/p2p-basel-2024)
   * Previous editions: [2024](./2024), [2023](./2023)
-  * Archived projects: [Socket Supply](https://web.archive.org/web/20241117112630/https://socketsupply.co/)
