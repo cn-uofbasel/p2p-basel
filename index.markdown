@@ -19,9 +19,9 @@ We are already at full capacity.
 |             |  Fri. Jan. 23                                          |  Sat. Jan. 24                      |  Sun. Jan. 25                     |
 | ----------- | :---------------------:                                | :--------------------------------: | :----------------------------:   |
 | **8h-9h**   | *Breakfast + Lunch Prep.*                              | *Breakfast + Lunch Prep.*          | *Breakfast + Lunch Prep.*        |
-| **9h-12h** | Official Welcome + Tutorials/Lectures + Student Projects| Mature Insights + Early Seeds Talks| Mature Insights Talks                            |
+| **9h-12h**  | Official Welcome + Mixed talks                         | Mature Insights + Early Seeds Talks| Mature Insights Talks                            |
 | **12h-14h** | *Lunch + Dinner Preparation*                           | *Lunch + Dinner Preparation*       | *Lunch + Dinner Preparation*     |
-| **14h-18h** | Tutorials/Lectures + Student Projects                  | *TBD*                              | *TBD*                            |
+| **14h-18h** | Tutorials/Lectures + Student Projects + Mature Insights| *TBD*                              | *TBD*                            |
 | **18h-20h** | *Supper*                                               | *Supper*                           | *Supper*                         |
 | **20h-...** | *TBD* [(recommended places)](./recommendations.html)   | *TBD*                              | *TBD*                            |
 
@@ -41,14 +41,11 @@ and planning for sharing cooking and cleaning chores.
 
 Tutorials/lectures provide a presentation of fundamental concepts and skills
 that may help participants better understand the following talks and
-discussions. We have time for 5 introduction tutorials and lectures of 45-50
-minutes on core topics of interest. Already planned lectures are:
+discussions. Tutorials and lectures should last 45-50 minutes on core topics of
+interest. 
 
-  1. (Fri. ??) ?? by [Ali Ajorian](https://dmi.unibas.ch/en/persons/ajorian-ali/)  
-  2. (Fri. ??) ?? by [Osman Bicer](https://cn.dmi.unibas.ch/en/people/dr-osman-bicer/)   
-  3. (Fri. ??) ?? by [Christian Tschudin](https://dmi.unibas.ch/en/persons/christian-tschudin/) 
-  4. (Fri. ??) ?? by [Erick Lavoie](https://dmi.unibas.ch/en/persons/lavoie-erick)   
-  5. (Fri. ??) ?? by ?? 
+  1. Tutorial: "Modelling Streaming Frameworks with TLA+ and Application to Pull/Push-Stream" by [Erick Lavoie](https://dmi.unibas.ch/en/persons/lavoie-erick) [[TLA+ Video Lectures]](https://lamport.azurewebsites.net/video/videos.html)  [[TLA+ Book]](https://lamport.azurewebsites.net/tla/science.pdf) [[Pull-Stream Repo]](https://github.com/pull-stream/pull-stream) [[Push-Stream Repo]](https://github.com/push-stream/push-stream) [[Pull-Stream Analysis & Formalism]](https://arxiv.org/abs/1801.06144)
+  2. Lecture: "Introduction to Multiparty Computation and Universal Circuits"  by [Ali Ajorian](https://dmi.unibas.ch/en/persons/ajorian-ali/)  
 
 These lectures are open to students and researchers of the Department of
 Mathematics and Computer Science at University of Basel. Participants are
@@ -58,12 +55,12 @@ invited to prepare in advance by reading the relevant reference material.
 
 Some of the students having successfully completed a related Bachelor or Master
 project/thesis in the Computer Networks Group will present their work, in 25
-minutes. The following presentations have already been planned:
+minutes. 
 
-  1. (Fri. ??) "Late-Binding between Groups and Permissions based on Trust in Offline-First System" by Paul Tröger  
-  2. (Fri. ??) "Gachix: A binary cache for Nix over Git" by Ephraim Siegfried [[pdf]](https://cn.dmi.unibas.ch/fileadmin/user_upload/redesign-cn-dmi/pubs/theses/bachelor/Siegfried-Gachix-Nix-Bin-Cache-Over-Git.pdf) [[source code]](https://github.com/EphraimSiegfried/gachix)
-  3. (Fri. ??) "P2P e-voting Protocol" by Martin Chikov
- 
+  1. "Late-Binding between Groups and Permissions based on Trust in Offline-First System" by Paul Tröger  
+  2. "P2P e-voting Protocol" by Martin Chikov
+  3. "Gachix: A binary cache for Nix over Git" by Ephraim Siegfried [[pdf]](https://cn.dmi.unibas.ch/fileadmin/user_upload/redesign-cn-dmi/pubs/theses/bachelor/Siegfried-Gachix-Nix-Bin-Cache-Over-Git.pdf) [[source code]](https://github.com/EphraimSiegfried/gachix)
+
 These presentations are open to students and researchers of the Department of
 Mathematics and Computer Science at University of Basel. Participants are
 invited to prepare in advance by reading the referenced reports.
@@ -90,8 +87,16 @@ are unlikely to drop theirs to join yours. Marketing towards a general audience
 will be better served by other venues (blog posts, videos, talks in larger
 conferences, etc.).
 
-Planned talks so far:
-  1. ??
+Planned Talks:
+
+  1. "Designing and Implementing a Solution for Decentralized Group Management" by Sam Andreae [[notes convergent access]]( https://p2panda.org/2025/08/27/notes-convergent-access-control-crdt.html) [[blog on access control]](https://p2panda.org/2025/07/28/access-control.html)[[blog on group encryption]](https://p2panda.org/2025/08/27/notes-convergent-access-control-crdt.html, https://p2panda.org/2025/07/28/access-control.html, https://p2panda.org/2025/02/24/group-encryption.html)
+  2. "Private GOC-Ledger" by Osman Biçer 
+  3. "Vouching-based moderation" by Alexander Cobleigh [[spec]](https://cabal.codeberg.page/moderation.html)
+  4. "States and Diffs in Version Control" by Pierre-Etienne Meunier
+  5. "Collapsing Time Machine" by Michael Toomim  
+  6. "State of P2P Networking and QUIC-based approaches" by Frando
+  7. "Routing, Multicast, and Group Encryption in Ad-hoc Mesh-networks" by Mathias  
+  8. "Are we DMLS yet?" by Jan Winkelmann (Keks)
 
 ### -> Early Seeds Talks (Saturday January 24th Late Morning)
 
@@ -102,8 +107,50 @@ or insights that have not been validated already, to stimulate interesting
 discussions and draw attention to potential topics for the unconference part.
 
 Planned talks so far:
-  1. ??
 
+  1. "Funding Models for P2P Apps & Middlewares" by Erick Lavoie
+  2. "Report on P2P Lectures in Berlin + Book/Video Series" by Andreas Dzialocha
+  3. "Design towards a common p2p system service" by Andreas Dzialocha & Frando  
+  4. "Some learnings from guiding p2p feature implementation in a non-p2p org" by Alex Cobleigh 
+  5. "Too much plumbing, not enough living: A case for a greater focus on applications in the P2P space" by Andre Garzia 
+  6. "Quaul: a local-first P2P mesh communication app" by Mathias 
+  7. "Uncensorability" by Osman Bicer
+  8. "Personal Replication" by Christian Tschudin 
+
+### Detailed Schedule
+
+#### Friday
+
+##### Morning
+
+  1. (10:00 - 11:00) Tutorial: "Modelling Streaming Frameworks with TLA+ and Application to Pull/Push-Stream" by Erick Lavoie   
+  2. (11:00 - 11:40) Mature Insight: "Designing and Implementing a Solution for Decentralized Group Management" by Sam Andreae
+  3. (11:40 - 12:20) Student Presentation: "Late-Binding between Groups and Permissions based on Trust in Offline-First System" by Paul Tröger  
+
+##### Afternoon
+
+  1. (14:00 - 15:00) Lecture: "Introduction to Multiparty Computation and Universal Circuits" by Ali Ajorian  
+  2. (15:00 - 15:45) Student Presentation: "P2P e-voting Protocol" by Martin Chikov
+  3. (15:45 - 16:30) Student Presentation: "Gachix: A binary cache for Nix over Git" by Ephraim Siegfried 
+  4. (16:30 - 17:15) Mature Insight: "Private GOC-Ledger" by Osman Biçer 
+  5. (17:15 - 18:00) Mature Insight: "Vouching-based moderation" by Alexander Cobleigh  
+
+#### Saturday
+
+##### Morning
+
+1. (9:00 - 9:45) Mature Insight: "States and Diffs in Version Control" by Pierre-Etienne Meunier 
+2. (9:45 - 10:30) Mature Insight: "Collapsing Time Machine" by Michael Toomim 
+3. (10:30 - 12:00) Early Seeds
+
+#### Sunday
+
+##### Morning
+
+  1. (9:00 - 9:45) Mature Insight: "State of P2P Networking and QUIC-based approaches" by Frando
+  2. (9:45 - 10:30) Mature Insight: "Routing, Multicast, and Group Encryption in Ad-hoc Mesh-networks" by Mathias  
+  3. (10:30 - 11:15) Mature Insight: "Are we DMLS yet?" by Jan Winkelmann (Keks)
+  4. (11:15 - 12:00) "DWeb Seminar Report" by Andreas Dzialocha & Christian Tschudin
 
 ## Travel and Accommodations
 
