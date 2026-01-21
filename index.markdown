@@ -182,7 +182,7 @@ ways: publish your insights in pre-print venues, such as
 contribute to the technical development of eventually-consistent peer-to-peer
 systems.
 
-We ask for 75 CHF / 81 EUR for attendance, regardless of when
+We ask for 75 CHF / 80 EUR for attendance, regardless of when
 you arrive or leave, to cover meal costs including breakfast,
 lunch, and dinner.   
 
