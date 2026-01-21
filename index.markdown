@@ -45,7 +45,8 @@ discussions. Tutorials and lectures should last 45-50 minutes on core topics of
 interest. 
 
   1. Tutorial: "Modelling Streaming Frameworks with TLA+ and Application to Pull/Push-Stream" by [Erick Lavoie](https://dmi.unibas.ch/en/persons/lavoie-erick) [[TLA+ Video Lectures]](https://lamport.azurewebsites.net/video/videos.html)  [[TLA+ Book]](https://lamport.azurewebsites.net/tla/science.pdf) [[Pull-Stream Repo]](https://github.com/pull-stream/pull-stream) [[Push-Stream Repo]](https://github.com/push-stream/push-stream) [[Pull-Stream Analysis & Formalism]](https://arxiv.org/abs/1801.06144)
-  2. Lecture: "Introduction to Multiparty Computation and Universal Circuits"  by [Ali Ajorian](https://dmi.unibas.ch/en/persons/ajorian-ali/)  
+  2. Lecture: "Introduction to Multiparty Computation and Universal Circuits"  by [Ali Ajorian](https://dmi.unibas.ch/en/persons/ajorian-ali/)  [[Universal Circuit Paper]](https://eprint.iacr.org/2016/017) [[Garbled Circuit Paper]](https://arxiv.org/abs/2501.18387)
+
 
 These lectures are open to students and researchers of the Department of
 Mathematics and Computer Science at University of Basel. Participants are
