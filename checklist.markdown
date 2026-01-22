@@ -55,6 +55,7 @@
         - Broom
         - Mop
         - Soap
+        - Bucket
 
 ### IT
     

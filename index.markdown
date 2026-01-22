@@ -117,6 +117,7 @@ Planned talks so far:
   6. "Quaul: a local-first P2P mesh communication app" by Mathias 
   7. "Uncensorability" by Osman Bicer
   8. "Personal Replication" by Christian Tschudin 
+  9. "The human factor in immutable Linux distributions" by Pierre-Étienne Meunier
 
 ### Detailed Schedule
 
