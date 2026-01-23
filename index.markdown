@@ -126,8 +126,9 @@ Planned talks so far:
 ##### Morning
 
   1. (10:00 - 11:00) Tutorial: "Modelling Streaming Frameworks with TLA+ and Application to Pull/Push-Stream" by Erick Lavoie   
-  2. (11:00 - 11:40) Mature Insight: "Designing and Implementing a Solution for Decentralized Group Management" by Sam Andreae
-  3. (11:40 - 12:20) Student Presentation: "Late-Binding between Groups and Permissions based on Trust in Offline-First System" by Paul Tröger  
+  2. (11:00 - 11:40) Student Presentation: "Late-Binding between Groups and Permissions based on Trust in Offline-First System" by Paul Tröger  
+  3. (11:40 - 12:20) Mature Insight: "Designing and Implementing a Solution for Decentralized Group Management" by Sam Andreae (may be exchanded with one of the Mature Insight presentations in the afternoon)
+
 
 ##### Afternoon
 
