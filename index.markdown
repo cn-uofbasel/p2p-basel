@@ -125,31 +125,31 @@ Planned talks so far:
 
 ##### Morning
 
-  1. (10:00 - 11:00) Tutorial: "Modelling Streaming Frameworks with TLA+ and Application to Pull/Push-Stream" by Erick Lavoie   
-  2. (11:00 - 11:40) Student Presentation: "Late-Binding between Groups and Permissions based on Trust in Offline-First System" by Paul Tröger  
-  3. (11:40 - 12:20) Mature Insight: "Designing and Implementing a Solution for Decentralized Group Management" by Sam Andreae (may be exchanded with one of the Mature Insight presentations in the afternoon)
+  1. (10:00 - 11:03) Tutorial: "Modelling Streaming Frameworks with TLA+ and Application to Pull/Push-Stream" by Erick Lavoie   
+  2. (11:30 - 12:15) Student Presentation: "Late-Binding between Groups and Permissions based on Trust in Offline-First System" by Paul Tröger  
 
 
 ##### Afternoon
 
-  1. (14:00 - 15:00) Lecture: "Introduction to Multiparty Computation and Universal Circuits" by Ali Ajorian  
-  2. (15:00 - 15:45) Student Presentation: "P2P e-voting Protocol" by Martin Chikov
-  3. (15:45 - 16:30) Student Presentation: "Gachix: A binary cache for Nix over Git" by Ephraim Siegfried 
-  4. (16:30 - 17:15) Mature Insight: "Private GOC-Ledger" by Osman Biçer 
-  5. (17:15 - 18:00) Mature Insight: "Vouching-based moderation" by Alexander Cobleigh  
+  1. (14:15 - 15:30) Lecture: "Introduction to Multiparty Computation and Universal Circuits" by Ali Ajorian  
+  2. (15:30 - 16:15) Student Presentation: "Gachix: A binary cache for Nix over Git" by Ephraim Siegfried 
+  3. (17:00 - 17:45) Mature Insight: "Vouching-based moderation" by Alexander Cobleigh  
+  4. (17:45 - 18:30) Mature Insight: "Designing and Implementing a Solution for Decentralized Group Management" by Sam Andreae
+  5. (18:30 - 19:15) Mature Insight: "States and Diffs in Version Control" by Pierre-Etienne Meunier 
 
 #### Saturday
 
 ##### Morning
 
-1. (9:00 - 9:45) Mature Insight: "States and Diffs in Version Control" by Pierre-Etienne Meunier 
-2. (9:45 - 10:30) Mature Insight: "Collapsing Time Machine" by Michael Toomim 
+1. (09:00 - 09:45) Mature Insight: "Private GOC-Ledger" by Osman Biçer 
+2. (09:45 - 10:30) Mature Insight: "Collapsing Time Machine" by Michael Toomim 
 3. (10:30 - 12:00) Early Seeds
 
 #### Sunday
 
 ##### Morning
 
+  0. (XX:XX - XX:XX) Student Presentation: "P2P e-voting Protocol" by Martin Chikov
   1. (9:00 - 9:45) Mature Insight: "State of P2P Networking and QUIC-based approaches" by Frando
   2. (9:45 - 10:30) Mature Insight: "Routing, Multicast, and Group Encryption in Ad-hoc Mesh-networks" by Mathias  
   3. (10:30 - 11:15) Mature Insight: "Are we DMLS yet?" by Jan Winkelmann (Keks)
